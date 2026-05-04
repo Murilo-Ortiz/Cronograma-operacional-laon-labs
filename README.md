@@ -14,8 +14,32 @@ Os principais processos gerenciados pelo KAM são:
 ## **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
 1. Diretrizes de comunicação;
-2. Boas práticas.
+2. Cronograma operacional;
+2. Boas práticas na execução do cargo.
 
+
+# **Onboarding de Cliente**
+O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
+## **Identificação dos responsáveis**
+- Identificar qual será o Key Account Manager responsável pelo cliente;
+- Identificar qual será o responsável pelo projeto.
+## **Criação do Grupo Oficial do projeto**
+- Criar o grupo oficial de comunicação no WhatsApp;
+- Padronização de nome: "Laon <> Nome do Projeto";
+- Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
+## **Mensagem de Boas Vindas e Agendamento de Kickoff**
+- Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
+- Deve-se agendar a reunião de kickoff de produto com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
+
+ ```text
+ Bom dia/Boa tarde, pessoal! Tudo bem? 
+ 
+ Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Key Account Manager de vocês neste projeto e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
+ 
+ Este é o grupo oficial do projeto, por aqui, iremos manter todas as comunicações relacionadas ao projeto, com excessão das aprovações formais que serão via email. 
+
+Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
+ ```
 
 
 ## **Segunda-feira:**
