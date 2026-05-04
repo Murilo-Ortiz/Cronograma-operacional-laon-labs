@@ -17,7 +17,7 @@ Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
 2. Cronograma operacional;
 2. Boas práticas na execução do cargo.
 
-# ** Cronogramas de projetos **
+## ** Cronogramas de projetos **
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
 1. **Onboarding:** processo inicial, entrada do cliente, primeiras reuniões para entendimento do projeto e apresentação do fluxo;
 1. **Acompanhamento de produto:** reuniões com a equipe de Product Design com o obejtivo de definir escopos, funcionalidades, regras de negócio e telas;
@@ -27,16 +27,16 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 1. **Acompanhamento pós-entrega e Follow-up:** reuniões pós entrega para coleta de bugs, alterações, feedbacks e possíveis desenvolvimentos para uma nova fase do projeto. 
 
 
-# **Onboarding de Cliente**
+## **Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
-## **Identificação dos responsáveis**
+### **Identificação dos responsáveis**
 - Identificar qual será o Key Account Manager responsável pelo cliente;
 - Identificar qual será o responsável pelo projeto.
-## **Criação do Grupo Oficial do projeto**
+### **Criação do Grupo Oficial do projeto**
 - Criar o grupo oficial de comunicação no WhatsApp;
 - Padronização de nome: "Laon <> Nome do Projeto";
 - Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
-## **Mensagem de Boas Vindas e Agendamento de Kickoff**
+### **Mensagem de Boas Vindas e Agendamento de Kickoff**
 - Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
 - Deve-se agendar a reunião de kickoff de produto com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
 
@@ -49,104 +49,72 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
-# **Reuniões**
-##
+## **Reuniões**
+### **Tipos de Reuniões**
+Os seguintes tipos de reuniões...
+#### **Kickoff**
+- Apresentação do fluxo de criação do projeto;
+- Principais pontos de definição em reuniões de kickoff:
+    - Definição de escopo do projeto;
+        - Modelo de negócio.
+    - Alinhamento de expectativas;
+    - Definição de responsáveis;
+    - Descrição do escopo macro do projeto;
+    - Monetização:
+        - Quando houver.
+
+#### **Reunião de acompanhamento de projeto**
+- Avanço das etapas de prototipação;
+- Coleta de informações;
+- Bloqueios;
+- Ajustes de rota;
+- Sanar pendências da reunião anterior (Dúvidas)
+- Data das próximas reuniões.
+
+#### **Reunião final de projeto**
+- Apresentação final dos protótipos;
+- Coleta de contas e informações necessárias para o desenvolvimento do produto:
+    - Servidor (AWS) (Adicionar link para redirecionamento de instrução de como criar conta)
+    - Contas das lojas de aplicativos (Apple e Google developer) 
+        - Se houver.
+    - Domínio (RegistroBR, GoDaddy e etc)
+    - Gateway de pagamento (Stripe, pagar.me, Dom pagamentos e etc)
+        - Se houver.
+    - Conta de assinatura digital (D4Sign e etc)
+        - Se houver.
+        - Se for D4Sign:
+            - Solicitar via email:
+                - Embed;
+                - Chaves de APIs.
+    - Integrações (IA, Meta, Google, TripAdvisor, Calendar e etc)
+        - Coletar APIs ou acessos quando houver.
+
+#### **Reuniões de acompanhamento de desenvolvimento**
+Apresentação parcial das etapas de desenvolvimento do projeto. Utilizar as reuniões para atualizar o cliente sobre:
+- Status do projeto;
+- Funcionalidades e telas já desenvolvidas;
+- Próximas etapas e planejamento;
+- Itens pendentes de envio (informações, identidade visual, imagens, arquivos, etc).
+
+### **Agendamentos**
+- Definir objetivo claro para a reunião;
+- Coletar os emails dos clientes que participarão da reunião;
+- Verificar disponibilidade da agenda com a equipe e o cliente;
+- Canal: Utilizar o google calendar para agendar reuniões;
+- Agendar a reunião na agenda “Laon - Product Design” (Cor cinza)
+- Seguir o padrão de nome: Reunião - Laon & Empresa (Assunto - quando necessário).
+- Convidar apenas quem é necessário.
+#### **Boas práticas**
+- Sempre ter horário definido de início e fim;
+- Sempre enviar 2 horários disponíveis da semana;
+- Confirmar presença (principalmente cliente);
+    - Enviar uma mensagem via WhatsApp 
+    - Modelo: Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h. 
+- Não marcar reuniões seguidas uma de outra;
+- Manter sempre uma reunião por turno (Manhã / Tarde);
 
 
 
-# **PROCESSOS DETALHADOS**
-
-## **1. Atualização semanal de projetos**
-
-**Frequência:** 1x por semana (Segunda-feira)
-
-Checklist:
-
-  - Status atual (em andamento / bloqueado / entregue)
-  - Enviar as fases do projeto;
-  - Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
-  - Próximos passos;
-  - Cobrar informações pendentes por parte do cliente;
-  - Checklist de solicitações pendentes de envio por parte do cliente.
-      - Como:
-          - Contas;
-          - Documentos;
-          - Informações relevantes para o desenvolvimento do projeto.
-
-## **2. Organização de reuniões**
-
-### **Como marcar uma reunião:**
-
-  - Definir objetivo claro para a reunião;
-  - Coletar os emails dos clientes que participarão da reunião;
-  - Verificar disponibilidade da agenda com a equipe e o cliente;
-  - Canal: Utilizar o google calendar para agendar reuniões;
-  - Agendar a reunião na agenda “Laon Labs - Product Design” (Cor cinza)
-      - Seguir o padrão de nome: Reunião - Laon Labs & Empresa (Assunto - quando necessário).
-  - Convidar apenas quem é necessário.
-
-### **Boas práticas:**
-
-  - Sempre ter horário definido de início e fim;
-  - Sempre enviar 2 horários disponíveis da semana;
-  - Confirmar presença (principalmente cliente);
-      - Enviar uma mensagem via WhatsApp 
-      - Modelo: Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h. 
-  - Não marcar reuniões seguidas uma de outra;
-  - Manter sempre uma reunião por turno (Manhã / Tarde);
-
------
-
-## **3. Tipos de reuniões**
-
-### **Kickoff**
-
-  - Apresentação do fluxo de criação do projeto;
-  - Principais pontos de definição em reuniões de kickoff:
-      - Definição de escopo do projeto;
-          - Modelo de negócio.
-      - Alinhamento de expectativas;
-      - Definição de responsáveis;
-      - Descrição do escopo macro do projeto;
-      - Monetização:
-          - Quando houver.
-
-### **Reunião de acompanhamento**
-
-  - Avanço das etapas de prototipação;
-  - Coleta de informações;
-  - Bloqueios;
-  - Ajustes de rota;
-  - Sanar pendências da reunião anterior (Dúvidas)
-  - Data das próximas reuniões.
-
-### **Reunião final de projeto**
-
-  - Apresentação final dos protótipos;
-  - Coleta de contas e informações necessárias para o desenvolvimento do produto:
-      - Servidor (AWS) (Adicionar link para redirecionamento de instrução de como criar conta)
-      - Contas das lojas de aplicativos (Apple e Google developer) 
-          - Se houver.
-      - Domínio (RegistroBR, GoDaddy e etc)
-      - Gateway de pagamento (Stripe, pagar.me, Dom pagamentos e etc)
-          - Se houver.
-      - Conta de assinatura digital (D4Sign e etc)
-          - Se houver.
-          - Se for D4Sign:
-              - Solicitar via email:
-                  - Embed;
-                  - Chaves de APIs.
-      - Integrações (IA, Meta, Google, TripAdvisor, Calendar e etc)
-          - Coletar APIs ou acessos quando houver.
-
-### **Reuniões parciais**
-
-  - Apresentação parcial das etapas de desenvolvimento do projeto;
-  - Utilizar as reuniões para atualizar o cliente sobre:
-      - Status do projeto;
-      - Funcionalidades e telas já desenvolvidas;
-      - Próximas etapas e planejamento;
-      - Itens pendentes de envio (informações, identidade visual, imagens, arquivos, etc.)
 
 ### **Boas práticas em reuniões gerais:**
 
@@ -463,3 +431,20 @@ Seguir uma estrutura de checkpoints é uma boa prática para estruturar as entre
   - Executar ou acompanhar reuniões;
   - Criar documentos;
   - Enviar materiais pós-reunião;
+
+## **1. Atualização semanal de projetos**
+
+**Frequência:** 1x por semana (Segunda-feira)
+
+Checklist:
+
+  - Status atual (em andamento / bloqueado / entregue)
+  - Enviar as fases do projeto;
+  - Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
+  - Próximos passos;
+  - Cobrar informações pendentes por parte do cliente;
+  - Checklist de solicitações pendentes de envio por parte do cliente.
+      - Como:
+          - Contas;
+          - Documentos;
+          - Informações relevantes para o desenvolvimento do projeto.
