@@ -3,28 +3,28 @@ O Key Account Manager é o responsável por garantir o sucesso do cliente e o al
 
 ## **Principais processos executados**
 Os principais processos gerenciados pelo KAM são:
-1. Onboarding de Clientes;
-2. Organização e Condução de Reuniões;
-3. Atualização Semanal de Projetos;
-4. Gestão de Demandas (Bugs e Alterações);
-5. Documentação e Criação de Contas;
-6. Aprovação, Checkpoints e Entregas;
-7. Resumos de Reuniões e Orçamentos.
+1. [Onboarding de Clientes](#onboarding-de-cliente); 
+2. [Organização e Condução de Reuniões](#reuniões);
+3. [Atualização Semanal de Projetos]();
+4. [Gestão de Demandas (Bugs e Alterações)];
+5. [Documentação e Criação de Contas];
+6. [Aprovação, Checkpoints e Entregas];
+7. [Resumos de Reuniões e Orçamentos].
 
 ## **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
-1. Diretrizes de comunicação;
-2. Cronograma operacional;
-2. Boas práticas na execução do cargo.
+1. [Diretrizes de comunicação];
+2. [Cronograma operacional];
+2. [Boas práticas na execução do cargo].
 
-## ** Cronogramas de projetos **
+## **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
 1. **Onboarding:** processo inicial, entrada do cliente, primeiras reuniões para entendimento do projeto e apresentação do fluxo;
-1. **Acompanhamento de produto:** reuniões com a equipe de Product Design com o obejtivo de definir escopos, funcionalidades, regras de negócio e telas;
-1. **Entrega e Validação dos protótipos:** etapa de validação dos protótipos e documentações desenvolvidos, solicita-se aprova;
-1. **Acompanhamento de Desenvolvimento:** reuniões para atualizações do desenvolvimento do projeto e coleta de informações necessárias;
-1. **Entrega e validação do sistema:** reunião de entrega do sistema, coleta de alterações e entrega para uso em testes;
-1. **Acompanhamento pós-entrega e Follow-up:** reuniões pós entrega para coleta de bugs, alterações, feedbacks e possíveis desenvolvimentos para uma nova fase do projeto. 
+2. **Acompanhamento de produto:** reuniões com a equipe de Product Design com o obejtivo de definir escopos, funcionalidades, regras de negócio e telas;
+3. **Entrega e Validação dos protótipos:** etapa de validação dos protótipos e documentações desenvolvidos, solicita-se aprova;
+4. **Acompanhamento de Desenvolvimento:** reuniões para atualizações do desenvolvimento do projeto e coleta de informações necessárias;
+5. **Entrega e validação do sistema:** reunião de entrega do sistema, coleta de alterações e entrega para uso em testes;
+6. **Acompanhamento pós-entrega e Follow-up:** reuniões pós entrega para coleta de bugs, alterações, feedbacks e possíveis desenvolvimentos para uma nova fase do projeto. 
 
 
 ## **Onboarding de Cliente**
@@ -53,15 +53,11 @@ Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de 
 ### **Tipos de Reuniões**
 Os seguintes tipos de reuniões...
 #### **Kickoff**
-- Apresentação do fluxo de criação do projeto;
-- Principais pontos de definição em reuniões de kickoff:
-    - Definição de escopo do projeto;
-        - Modelo de negócio.
-    - Alinhamento de expectativas;
-    - Definição de responsáveis;
-    - Descrição do escopo macro do projeto;
-    - Monetização:
-        - Quando houver.
+Reunião inicial com o cliente para apresentação do fluxo de criação do projeto. Na reunião devem-se estabelecer alguns pontos:
+1. Definição de escopo macro do projeto: qual é o problema a ser resolvido e quais requisitos devem ser considerados?
+2. Modelo de negócio e monetização;
+3. Alinhamento de expectativas;
+4. Definição de responsáveis;
 
 #### **Reunião de acompanhamento de projeto**
 - Avanço das etapas de prototipação;
