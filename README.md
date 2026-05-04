@@ -1,4 +1,22 @@
-# **CRONOGRAMA OPERACIONAL**
+# **Key Account Manager (KAM)**
+O Key Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação, gerenciando o onboarding, o acompanhamento de projetos, a priorização de demandas e a remoção de bloqueios para garantir entregas eficientes e de qualidade.
+
+## **Principais processos executados**
+Os principais processos gerenciados pelo KAM são:
+1. Onboarding de Clientes;
+2. Organização e Condução de Reuniões;
+3. Atualização Semanal de Projetos;
+4. Gestão de Demandas (Bugs e Alterações);
+5. Documentação e Criação de Contas;
+6. Aprovação, Checkpoints e Entregas;
+7. Resumos de Reuniões e Orçamentos.
+
+## **Regras gerais**
+Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
+1. Diretrizes de comunicação;
+2. Boas práticas.
+
+
 
 ## **Segunda-feira:**
 
