@@ -17,6 +17,15 @@ Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
 2. Cronograma operacional;
 2. Boas práticas na execução do cargo.
 
+# ** Cronogramas de projetos **
+Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
+1. **Onboarding:** processo inicial, entrada do cliente, primeiras reuniões para entendimento do projeto e apresentação do fluxo;
+1. **Acompanhamento de produto:** reuniões com a equipe de Product Design com o obejtivo de definir escopos, funcionalidades, regras de negócio e telas;
+1. **Entrega e Validação dos protótipos:** etapa de validação dos protótipos e documentações desenvolvidos, solicita-se aprova;
+1. **Acompanhamento de Desenvolvimento:** reuniões para atualizações do desenvolvimento do projeto e coleta de informações necessárias;
+1. **Entrega e validação do sistema:** reunião de entrega do sistema, coleta de alterações e entrega para uso em testes;
+1. **Acompanhamento pós-entrega e Follow-up:** reuniões pós entrega para coleta de bugs, alterações, feedbacks e possíveis desenvolvimentos para uma nova fase do projeto. 
+
 
 # **Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
@@ -34,44 +43,16 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
  
- Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Key Account Manager de vocês neste projeto e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
+ Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Key Account Manager de vocês e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
  
  Este é o grupo oficial do projeto, por aqui, iremos manter todas as comunicações relacionadas ao projeto, com excessão das aprovações formais que serão via email. 
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
+# **Reuniões**
+##
 
 
-## **Segunda-feira:**
-
-  - Atualizar status de **todos os projetos ativos;**
-  - Validar reuniões já marcadas;
-  - Agendar novas reuniões necessárias;
-  - Priorizar demandas da semana.
-
-## **Terça a sexta:**
-
-  - Acompanhamento de reuniões com clientes;
-  - Participar nas dailies;
-  - Acompanhamento de projetos;
-  - Cobranças e follow-ups;
-  - Documentações:
-      - Alterações, bugs, atas de reuniões e orçamentos.
-
-# **ROTINA DIÁRIA**
-
-## **Início do dia**
-
-  - Revisar agenda do dia;
-  - Checar mensagens e e-mails;
-  - Conferir se há reuniões sem confirmação;
-  - Participação nas dailies
-
-## **Durante o dia**
-
-  - Executar ou acompanhar reuniões;
-  - Criar documentos;
-  - Enviar materiais pós-reunião;
 
 # **PROCESSOS DETALHADOS**
 
@@ -450,3 +431,35 @@ Seguir uma estrutura de checkpoints é uma boa prática para estruturar as entre
   - Após a entrega e o envio dos acessos para validação do cliente, deve-se verificar:
       - Validação do cliente e coleta de feedbacks: marcar reunião após 15 dias da entrega para coleta de feedback e alterações;
       - Definir próximo passo e, se necessário, marcar reuniões regulares, após entrega para coleta de usabilidade do sistema e possíveis bugs/tasks a serem realizadas.
+
+#**Cronograma opercaional**
+## **Segunda-feira:**
+
+  - Atualizar status de **todos os projetos ativos;**
+  - Validar reuniões já marcadas;
+  - Agendar novas reuniões necessárias;
+  - Priorizar demandas da semana.
+
+## **Terça a sexta:**
+
+  - Acompanhamento de reuniões com clientes;
+  - Participar nas dailies;
+  - Acompanhamento de projetos;
+  - Cobranças e follow-ups;
+  - Documentações:
+      - Alterações, bugs, atas de reuniões e orçamentos.
+
+# **ROTINA DIÁRIA**
+
+## **Início do dia**
+
+  - Revisar agenda do dia;
+  - Checar mensagens e e-mails;
+  - Conferir se há reuniões sem confirmação;
+  - Participação nas dailies
+
+## **Durante o dia**
+
+  - Executar ou acompanhar reuniões;
+  - Criar documentos;
+  - Enviar materiais pós-reunião;
