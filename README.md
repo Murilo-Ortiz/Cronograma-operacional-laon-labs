@@ -19,13 +19,12 @@ Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
 
 ## **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
-1. **Onboarding:** processo inicial, entrada do cliente, primeiras reuniões para entendimento do projeto e apresentação do fluxo;
-2. **Acompanhamento de produto:** reuniões com a equipe de Product Design com o obejtivo de definir escopos, funcionalidades, regras de negócio e telas;
-3. **Entrega e Validação dos protótipos:** etapa de validação dos protótipos e documentações desenvolvidos, solicita-se aprova;
-4. **Acompanhamento de Desenvolvimento:** reuniões para atualizações do desenvolvimento do projeto e coleta de informações necessárias;
-5. **Entrega e validação do sistema:** reunião de entrega do sistema, coleta de alterações e entrega para uso em testes;
-6. **Acompanhamento pós-entrega e Follow-up:** reuniões pós entrega para coleta de bugs, alterações, feedbacks e possíveis desenvolvimentos para uma nova fase do projeto. 
-
+1. **Onboarding e kickoff**;
+2. **Prototipação e definição das regras de negócio**;
+3. **Entrega e Validação dos protótipos**;
+4. **Desenvolvimento e codificações do sistema**;
+5. **Entrega e validação do sistema**;
+6. **Acompanhamento pós-entrega e Follow-up:**.
 
 ## **Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
