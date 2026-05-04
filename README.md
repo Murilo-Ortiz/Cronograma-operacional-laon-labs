@@ -4,27 +4,27 @@ O Key Account Manager é o responsável por garantir o sucesso do cliente e o al
 ## **Principais processos executados**
 Os principais processos gerenciados pelo KAM são:
 1. [Onboarding de Clientes](#onboarding-de-cliente); 
-2. [Organização e Condução de Reuniões](#reuniões);
+2. [Organização e Condução de Reuniões](#organização-e-condução-de-reuniões);
 3. [Atualização Semanal de Projetos]();
 4. [Gestão de Demandas (Bugs e Alterações)];
 5. [Documentação e Criação de Contas];
 6. [Aprovação, Checkpoints e Entregas];
 7. [Resumos de Reuniões e Orçamentos].
 
-## **Regras gerais**
+### **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
 1. [Diretrizes de comunicação];
 2. [Cronograma operacional];
 2. [Boas práticas na execução do cargo].
 
-## **Cronogramas de projetos**
+### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
 1. **Onboarding e kickoff**;
 2. **Prototipação e definição das regras de negócio**;
 3. **Entrega e Validação dos protótipos**;
 4. **Desenvolvimento e codificações do sistema**;
 5. **Entrega e validação do sistema**;
-6. **Acompanhamento pós-entrega e Follow-up:**.
+6. **Acompanhamento pós-entrega e Follow-up**.
 
 ## **Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
@@ -37,7 +37,7 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 - Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
 ### **Mensagem de Boas Vindas e Agendamento de Kickoff**
 - Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
-- Deve-se agendar a reunião de kickoff de produto com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
+- Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
 
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
@@ -48,58 +48,65 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
-## **Reuniões**
+## **Organização e Condução de Reuniões**
+Para uma boa organização de reuniões segue-se uma separação em [tipos](#tipos-de-reuniões), com processos definidos para seus [agendamentos](#agendamentos-de-reuniões) e [conduções](#boas-práticas-para-condução-em-reuniões).
+
 ### **Tipos de Reuniões**
-Os seguintes tipos de reuniões...
+Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto. 
 #### **Kickoff**
-Reunião inicial com o cliente para apresentação do fluxo de criação do projeto. Na reunião devem-se estabelecer alguns pontos:
+Reunião inicial com clientes, equipe de Product Design e responsáveis para apresentação do fluxo de criação do projeto e definição de escopo inicial. Ao final da reunião devem-se ter estabelecidos alguns pontos:
 1. Definição de escopo macro do projeto: qual é o problema a ser resolvido e quais requisitos devem ser considerados?
 2. Modelo de negócio e monetização;
 3. Alinhamento de expectativas;
 4. Definição de responsáveis;
 
 #### **Reunião de acompanhamento de projeto**
-- Avanço das etapas de prototipação;
-- Coleta de informações;
-- Bloqueios;
-- Ajustes de rota;
-- Sanar pendências da reunião anterior (Dúvidas)
-- Data das próximas reuniões.
+Reuniões com clientes e equipe de Product Design com o obejtivo de definir escopos, funcionalidades, fluxos, regras de negócio e telas do sistema. 
+
+As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do projeto e necessidade. Deve-se atentar para:
+1. Coleta de informações necessárias para o desenvolvimento dos protótipos, como regras de negócios, cálculos e valores específicos, identidade visual, etc;
+2. Bloqueios e ajustes de rotas no escopo inicial (exceto para projetos de escopos fechados);
+3. Sanar pendências da reunião anterior (Dúvidas);
+4. Deixar sempre definida a data das próximas reuniões.
 
 #### **Reunião final de projeto**
-- Apresentação final dos protótipos;
-- Coleta de contas e informações necessárias para o desenvolvimento do produto:
-    - Servidor (AWS) (Adicionar link para redirecionamento de instrução de como criar conta)
-    - Contas das lojas de aplicativos (Apple e Google developer) 
-        - Se houver.
-    - Domínio (RegistroBR, GoDaddy e etc)
-    - Gateway de pagamento (Stripe, pagar.me, Dom pagamentos e etc)
-        - Se houver.
-    - Conta de assinatura digital (D4Sign e etc)
-        - Se houver.
-        - Se for D4Sign:
-            - Solicitar via email:
-                - Embed;
-                - Chaves de APIs.
-    - Integrações (IA, Meta, Google, TripAdvisor, Calendar e etc)
-        - Coletar APIs ou acessos quando houver.
+Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a entrega dos protótipos, sanar dúvidas e coletar possíveis alterações. Após a apresentação das entregas, deve-se questionar o cliente sobre:
+1. Existência de CNPJ da empresa;
+2. Existência de Domínio e conta AWS para hospedagem do sistema;
+3. Coleta de acessos à softwares e/ou contas de terceiros que terão integrações com o sistema; 
+As informações poderão ser coletadas em [Reuniões de acompanhamento de desenvolvimento](#reuniões-de-acompanhamento-de-desenvolvimento) de acordo com a necessidade ou prazos definidos (eg: criação de conta AWS depende de CNPJ válido e aprovado);
 
+Veja a seção sobre coleta de contas e acessos: LINK.
+    
 #### **Reuniões de acompanhamento de desenvolvimento**
-Apresentação parcial das etapas de desenvolvimento do projeto. Utilizar as reuniões para atualizar o cliente sobre:
-- Status do projeto;
-- Funcionalidades e telas já desenvolvidas;
-- Próximas etapas e planejamento;
-- Itens pendentes de envio (informações, identidade visual, imagens, arquivos, etc).
+Reuniões com clientes para atualizações do desenvolvimento do projeto e coleta de informações necessárias. Durante as reuniões, deve-se atentar para:
+1. Atualizar os cliente quanto ao status dos projetos, informando as funcionalidades em desenvolvimemnto e a etapa em que cada projeto está (as informações devem ser coletadas em daily ou com o tech lead);
+2. Apresentar as próximas etapas e planejamento;
+3. Coletar itens pendentes de envio (acessos, informações, identidade visual, imagens, arquivos, etc).
 
-### **Agendamentos**
-- Definir objetivo claro para a reunião;
-- Coletar os emails dos clientes que participarão da reunião;
-- Verificar disponibilidade da agenda com a equipe e o cliente;
-- Canal: Utilizar o google calendar para agendar reuniões;
-- Agendar a reunião na agenda “Laon - Product Design” (Cor cinza)
-- Seguir o padrão de nome: Reunião - Laon & Empresa (Assunto - quando necessário).
-- Convidar apenas quem é necessário.
-#### **Boas práticas**
+Veja a seção sobre coleta de contas e acessos: LINK.
+
+### **Boas práticas para condução em reuniões:**
+Para que todas as reuniões ocorram conforme o esperado e siga o processo definido, observe as seguintes boas práticas:
+1. Entrar 5 minutos antes para testar equipamentos como microfone e câmera;
+2. Manter sempre a câmera ligada durante as reuniões;
+3. Gravar todas as reuniões utilizando o [ReadAI](#8-readai-ou-gravaçãoanálise-de-reuniões);
+4. Anotar todos os pontos discutidos e levantados para conferência posterior em ata de reunião;
+5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
+6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
+7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
+
+### **Agendamentos de reuniões**
+Para que tudo siga o processo definido, observe os seguintes pontos para o agendamento das reuniões:
+1. Definir objetivo claro para a reunião, baseando-se nos [tipos](#tipos-de-reuniões) descritos;
+2. Coletar os emails dos clientes e da equipe interna que participarão da reunião;
+3. Verificar disponibilidade da agenda com a equipe e o cliente;
+4. Canal de agendamento: Utilizar o google calendar para agendar reuniões;
+5. Agendar a reunião na agenda “Laon - Product Design” (Cor cinza);
+6. Seguir o padrão de nome: Reunião - Laon & Empresa (Assunto - quando necessário).
+7. Convidar apenas quem é necessário.
+
+#### **Boas práticas para agendamentos**
 - Sempre ter horário definido de início e fim;
 - Sempre enviar 2 horários disponíveis da semana;
 - Confirmar presença (principalmente cliente);
@@ -111,17 +118,6 @@ Apresentação parcial das etapas de desenvolvimento do projeto. Utilizar as reu
 
 
 
-### **Boas práticas em reuniões gerais:**
-
-  - Entrar 5 minutos antes para testar equipamentos:
-      - Microfone;
-      - Câmera.
-  - Manter sempre a câmera ligada durante as reuniões;
-  - Gravar todas as reuniões (ReadAI)
-  - Anotar todos os pontos discutidos e levantados em ata de reunião;
-  - Sugerir melhorias ou ideias sobre o produto desenvolvido;
-  - Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
-  - Manter a postura entusiasta;
 
 <!-- end list -->
 
