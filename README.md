@@ -2,20 +2,20 @@
 O Key Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação, gerenciando o onboarding, o acompanhamento de projetos, a priorização de demandas e a remoção de bloqueios para garantir entregas eficientes e de qualidade.
 
 ## **Principais processos executados**
-Os principais processos gerenciados pelo KAM são:
-1. [Onboarding de Clientes](#onboarding-de-cliente); 
-2. [Organização e Condução de Reuniões](#organização-e-condução-de-reuniões);
-3. [Gestão de Demandas (Bugs e Alterações)];
-4. [Documentação e Criação de Contas];
-5. [Aprovação, Checkpoints e Entregas];
-6. [Resumos de Reuniões e Orçamentos].
-7. [Atualização Semanal de Projetos]();
+Os principais processos gerenciados pelo KAM e descritos nessa documentação são:
+1. [Onboarding de Clientes](#1-onboarding-de-cliente); 
+2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões);
+3. [Validações e Aprovações formais](#3-validações-e-aprovações)
+4. [Gestão de Demandas Pós-entrega](#4-gestão-de-demandas-pós-entrega);
+4. [Gerenciamento de Documentações](#5documentações);
+5. [Coletas de contas e acessos](#6coletas-de-informações);
+6. [Atualização Semanal de Projetos]();
 
 ### **Regras gerais**
-Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
-1. [Diretrizes de comunicação];
-2. [Cronograma operacional];
-2. [Boas práticas na execução do cargo].
+Para uma melhor execução do trabalho do KAM seguem-se, também algumas regras gerais:
+1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação);
+2. [Cronograma operacional]();
+2. [Boas práticas na execução do cargo]().
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
@@ -26,19 +26,19 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 5. **Entrega e validação do sistema**;
 6. **Acompanhamento pós-entrega e Follow-up**.
 
-## **1.Onboarding de Cliente**
+## **1. Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
 ### **Identificação dos responsáveis**
-- Identificar qual será o Key Account Manager responsável pelo cliente;
-- Identificar qual será o responsável pelo projeto.
+1. Identificar quem será o Key Account Manager responsável pelo cliente;
+2. Identificar quem será o responsável pelo projeto.
 ### **Criação do Grupo Oficial do projeto**
-- Criar o grupo oficial de comunicação no WhatsApp;
-- Padronização de nome: "Laon <> Nome do Projeto";
-- Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
+1. Criar o grupo oficial de comunicação no WhatsApp;
+2. Padronização de nome: "Laon <> Nome do Projeto";
+3. Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
 ### **Mensagem de Boas Vindas e Agendamento de Kickoff**
-- Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
-- Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
-
+1. Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
+2. Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
+#### **Modelo de mensagem**:
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
  
@@ -48,7 +48,8 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
-## **2.Organização e Condução de Reuniões**
+
+## **2. Organização e Condução de Reuniões**
 Para uma boa organização de reuniões segue-se uma separação em [tipos](#tipos-de-reuniões), com processos definidos para seus [agendamentos](#agendamentos-de-reuniões) e [conduções](#boas-práticas-para-condução-em-reuniões).
 
 ### **Tipos de Reuniões**
@@ -87,7 +88,11 @@ Reuniões com clientes para atualizações do desenvolvimento do projeto e colet
 Veja a seção sobre coleta de contas e acessos: LINK.
 
 #### **5.Reunião de entrega final**
-ESCREVER
+- Marcar reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
+- Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
+- Caso tenha bugs ou alterações a serem realizadas:
+    - Criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos.
+    - O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
 
 
 #### **6.Reunião de acompanhamento de produto e follow-up**
@@ -123,43 +128,46 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 - Manter sempre uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
+Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, afim de formalizar as entregas.
 
 ### **Entrega final dos protótipos**
+Após a apresentação final dos protótipos e regras de negócio, bem como a correção de quaisquer pontos que tenham sido levantados nas últimas reuniões, deve-se enviar um email com todos os materiais do projeto em formato PDF para os clientes:
+#### **Formalização da aprovação por email**
+1. **Destinatários:** Email dos responsáveis pelo projeto, clientes, equipe da laon envolvida e ````dev@laon.com.br````;
+2. **Título do Email:**````Aprovação protótipos - (NOME DO PROJETO)````;
+3. **Corpo do email:**
+````Prezados, bom dia/boa tarde!
 
-  - Enviar um email com todos os materiais do projeto em formato PDF para os clientes;
-      - Os PDFs devem ser separado por painel;
-      - O modelo do email deve ser:
-          - **Destinatários: **(Email dos responsáveis pelo projeto e equipe da laon envolvida)
-          - **Título do email**: Aprovação protótipos - (Nome do projeto)
-          - **Saudação**: Prezados, bom dia\!
-          - **Corpo do email:**
-              - Encaminho em anexo os protótipos do sistema da plataforma Night Night, em formato PDF, juntamente com o link de regras do notion (<https://laonlabs.notion.site/nightnight?source=copy_link>)
-              - Solicitamos, por gentileza, que a validação e aprovação formal sejam realizadas em resposta a este e-mail, para que possamos dar sequência às próximas etapas do projeto e formalizar a entrega final.
-          - **Anexos:**
-              - (PDFs dos protótipos)
-          - **Assinatura: **
-              - Atenciosamente,  
-                Murilo Schreiner  
-                Key Account Manager
-  - Validar aceite formal e por escrito ao email enviado.
-      - Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email.
-          - Modelo: Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
+    Encaminho em anexo os protótipos do sistema da plataforma NOME DO PROJETO, em formato PDF, juntamente com o link de regras do notion (Link das regras de negócio - Notion).
 
-#### **Pós-envio:**
+    Solicitamos, por gentileza, que a validação e aprovação formal sejam realizadas em resposta a este e-mail, para que possamos dar sequência às próximas etapas do projeto e formalizar a entrega final.
 
-  - Follow-up em até 24h;
-  - Novo contato em 3 dias;
-  - Novo contato em 7 dias;
-  - Seguir mantendo contato 1 vez a cada 7 dias.
+    Atenciosamente,  
+
+    NOME  
+    Key Account Manager
+````
+4. Anexos: enviar os PDFs dos protótipos separados por painel;
+
+#### **Regras gerais e Follow-up**
+1. Validar aceite formal e por escrito ao email enviado;
+2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
+````Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.````
+3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
+
+
+
+
 
 ### **Entrega de desenvolvimento**
+Após a reunião de entrega final do desenvolvimento e coleta das devidas alterações e bugs a serem corrigidos de acordo com o escopo. Deve-se aguardar o prazo de 15 dias após a reunião para cobrar uma devolutiva formal do cliente referente ao sistema entregue. 
 
-- Marcar reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
-- Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
-- Caso tenha bugs ou alterações a serem realizadas:
-    - Criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos.
-    - O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
+1. Agendar uma reunião pós-entrega, durante o período de validação, caso mostrem-se necessárias coletas de bugs, alterações englobadas no escopo ou esclarecimento de dúvidas do cliente;
+2. Após o período de 15 dias, marcar uma reunião pós-entrega, para coleta de feedbacks, bugs e alterações englobadas pelo escopo. 
 
+#### **Regras gerais e Follow-up**
+1. Durante o período de validação, mantenha-se ativo no grupo, a cada 3 dias, verificando o andamento do processo, seguindo o seguinte modelo de mensagem:
+````Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.````
 
 ## **4. Gestão de Demandas pós entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
