@@ -5,11 +5,11 @@ O Key Account Manager é o responsável por garantir o sucesso do cliente e o al
 Os principais processos gerenciados pelo KAM são:
 1. [Onboarding de Clientes](#onboarding-de-cliente); 
 2. [Organização e Condução de Reuniões](#organização-e-condução-de-reuniões);
-3. [Atualização Semanal de Projetos]();
-4. [Gestão de Demandas (Bugs e Alterações)];
-5. [Documentação e Criação de Contas];
-6. [Aprovação, Checkpoints e Entregas];
-7. [Resumos de Reuniões e Orçamentos].
+3. [Gestão de Demandas (Bugs e Alterações)];
+4. [Documentação e Criação de Contas];
+5. [Aprovação, Checkpoints e Entregas];
+6. [Resumos de Reuniões e Orçamentos].
+7. [Atualização Semanal de Projetos]();
 
 ### **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se algumas regras gerais:
@@ -26,7 +26,7 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 5. **Entrega e validação do sistema**;
 6. **Acompanhamento pós-entrega e Follow-up**.
 
-## **Onboarding de Cliente**
+## **1.Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
 ### **Identificação dos responsáveis**
 - Identificar qual será o Key Account Manager responsável pelo cliente;
@@ -48,19 +48,19 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
-## **Organização e Condução de Reuniões**
+## **2.Organização e Condução de Reuniões**
 Para uma boa organização de reuniões segue-se uma separação em [tipos](#tipos-de-reuniões), com processos definidos para seus [agendamentos](#agendamentos-de-reuniões) e [conduções](#boas-práticas-para-condução-em-reuniões).
 
 ### **Tipos de Reuniões**
 Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto. 
-#### **Kickoff**
+#### **1.Kickoff**
 Reunião inicial com clientes, equipe de Product Design e responsáveis para apresentação do fluxo de criação do projeto e definição de escopo inicial. Ao final da reunião devem-se ter estabelecidos alguns pontos:
 1. Definição de escopo macro do projeto: qual é o problema a ser resolvido e quais requisitos devem ser considerados?
 2. Modelo de negócio e monetização;
 3. Alinhamento de expectativas;
-4. Definição de responsáveis;
+4. Definição de responsáveis.
 
-#### **Reunião de acompanhamento de projeto**
+#### **2.Reuniões de acompanhamento de projeto**
 Reuniões com clientes e equipe de Product Design com o obejtivo de definir escopos, funcionalidades, fluxos, regras de negócio e telas do sistema. 
 
 As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do projeto e necessidade. Deve-se atentar para:
@@ -69,7 +69,7 @@ As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do pro
 3. Sanar pendências da reunião anterior (Dúvidas);
 4. Deixar sempre definida a data das próximas reuniões.
 
-#### **Reunião final de projeto**
+#### **3.Reunião final de projeto**
 Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a entrega dos protótipos, sanar dúvidas e coletar possíveis alterações. Após a apresentação das entregas, deve-se questionar o cliente sobre:
 1. Existência de CNPJ da empresa;
 2. Existência de Domínio e conta AWS para hospedagem do sistema;
@@ -78,7 +78,7 @@ As informações poderão ser coletadas em [Reuniões de acompanhamento de desen
 
 Veja a seção sobre coleta de contas e acessos: LINK.
     
-#### **Reuniões de acompanhamento de desenvolvimento**
+#### **4.Reuniões de acompanhamento de desenvolvimento**
 Reuniões com clientes para atualizações do desenvolvimento do projeto e coleta de informações necessárias. Durante as reuniões, deve-se atentar para:
 1. Atualizar os cliente quanto ao status dos projetos, informando as funcionalidades em desenvolvimemnto e a etapa em que cada projeto está (as informações devem ser coletadas em daily ou com o tech lead);
 2. Apresentar as próximas etapas e planejamento;
@@ -86,12 +86,19 @@ Reuniões com clientes para atualizações do desenvolvimento do projeto e colet
 
 Veja a seção sobre coleta de contas e acessos: LINK.
 
+#### **5.Reunião de entrega final**
+ESCREVER
+
+
+#### **6.Reunião de acompanhamento de produto e follow-up**
+ESCREVER
+
 ### **Boas práticas para condução em reuniões:**
 Para que todas as reuniões ocorram conforme o esperado e siga o processo definido, observe as seguintes boas práticas:
 1. Entrar 5 minutos antes para testar equipamentos como microfone e câmera;
 2. Manter sempre a câmera ligada durante as reuniões;
 3. Gravar todas as reuniões utilizando o [ReadAI](#8-readai-ou-gravaçãoanálise-de-reuniões);
-4. Anotar todos os pontos discutidos e levantados para conferência posterior em ata de reunião;
+4. Anotar todos os pontos discutidos e levantados para conferência posterior em [ata de reunião];
 5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
 6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
 7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
@@ -115,17 +122,7 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 - Não marcar reuniões seguidas uma de outra;
 - Manter sempre uma reunião por turno (Manhã / Tarde);
 
-
-
-
-
-<!-- end list -->
-
-  - Coleta de contas:
-      - Marcar uma reunião com os clientes para auxiliar na criação de contas
-          - Caso o cliente não consiga realizar a reunião, enviar um vídeo ou tutorial de como obter as informações.
-
-## **3. Aprovação**
+## **3. Validações e Aprovações**
 
 ### **Entrega final dos protótipos**
 
@@ -148,42 +145,34 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
       - Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email.
           - Modelo: Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
 
-### **Pós-envio:**
+#### **Pós-envio:**
 
   - Follow-up em até 24h;
   - Novo contato em 3 dias;
   - Novo contato em 7 dias;
   - Seguir mantendo contato 1 vez a cada 7 dias.
 
------
-
 ### **Entrega de desenvolvimento**
 
-  - Marcar reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
-  - Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
-  - Caso tenha bugs ou alterações a serem realizadas:
-      - Criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos.
-      - O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
+- Marcar reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
+- Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
+- Caso tenha bugs ou alterações a serem realizadas:
+    - Criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos.
+    - O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
 
-## **4. Abertura de cards**
 
-### **Padrões de card:**
+## **4. Gestão de Demandas pós entrega**
+Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
 
-  - Identificar entre Task e Bug e alteração: 
-      - Task: Pequenos ajustes de funcionalidades como permitir a edição de campos (caso a alteração não impacte no fluxo de funcionamento do sistema), alterar modelo de contrato D4Sign, alterar informações de registros via banco de dados etc.
-      - Bug: Erros de funcionalidades desenvolvidas como resetar senha não funcionando ao logar, campos que deveriam estar preenchidos não estando, erros não tratados sendo mostrados no frontend final,etc.
-      - Alteração: Alterações estruturais, desenvolvimento de novas funcionalidades ou refatoração de já existentes. Essas alterações precisam passar por orçamento e aprovação para serem executadas. 
-
-### **Como coletar evidências:**
-
-  - Inicialmente deve-se identificar o problema e tentar reproduzi-lo;
+### **Bugs**
+Bugs são erros que se apresentam nas funcionalidades desenvolvidas, de forma que não funcionem como definido no escopo do projeto, como por exemplo, ação de resetar senha não funcionando ao logar, campos que deveriam estar preenchidos ou que deveriam ser editáveis e não o são, erros não tratados sendo mostrados no frontend final, etc.
+#### Coleta de evidências
+- Inicialmente deve-se identificar o problema e tentar reproduzi-lo;
       - Caso o sistema esteja em produção, deve-se pedir para o cliente um acesso de teste ou que envie um vídeo/prints identificando o problema;
   - Analise o console do navegador (F12) e identifique possíveis erros que apareçam;
   - Analise a aba de Network do inspecionar, verifique as requisições e os status delas;
-
-### **Bugs**
-
-  - Criar o card de bug no squad correspondente do sistema:
+#### Abertura de Cards
+- Criar o card de bug no squad correspondente do sistema:
       - **Título**: Sistema + bug:
           - Exemplo (Clientela - Bug)
       - **Descrição**:
@@ -205,14 +194,12 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
       - Coletar prazo de resolução junto à equipe responsável e informar o cliente.
       - Modelo de mensagem:
           - Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
+### **Alterações**
+Alterações englobam pequenos ajustes de funcionalidades como permitir a edição de campos, alterar modelo de contrato D4Sign, alterar informações de registros via banco de dado, etc; e alterações estruturais, desenvolvimento de novas funcionalidades ou refatoração de já existentes. 
 
------
+Algumas alterações, dependendo do impacto que possuem nas funcionalidades desenvolvidas, precisam passar por orçamento e aprovação para serem executadas.
 
-## **5. Alterações (Task)**
-
-Sempre que entrar uma nova demanda:
-
-  - Entendimento claro do pedido
+- Entendimento claro do pedido
   - Criar o card no squad correspondente;
       - Identificar se a alteração solicitada se encaixa como task ou alteração:
           - Task: 
@@ -266,37 +253,18 @@ Sempre que entrar uma nova demanda:
       - Informar os prazos no email
       - Após a proposta aprovada pelo cliente, deve-se comunicar o tech lead para iniciar o desenvolvimento.
 
------
+### Entregas de Alterações e Correções
 
-## **6. Documentação de criação de contas**
-
-Os projetos dependem da criação de algumas contas, dependendo da estrutura:
-
-  - AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
-  - Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
-  - Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
-
-Adicionar os documentos de tutorial para coleta de contas
-
------
-
-## **7. Atas de reunião**
-
-### **Modelo e Regras de escrita das atas: **
+## **5.Documentações**
+### **Atas de Reunião**
+#### **Modelo e Regras de escrita das atas: **
 
 [Regras - Ata de reunião - Laon Labs](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
 
   - As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
   - Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
 
-### **Formatação Obrigatória:**
-
-  - Título: Arial 16, Negrito.
-  - Títulos de Seção: Arial 11, Negrito.
-  - Corpo do Texto: Arial 11, Justificado.
-  - Pontuação: Usar ponto e vírgula (;) para itens de listas não finais e ponto final (.) para o último item da hierarquia.
-
-### **Detalhamento Técnico: **
+#### **Detalhamento Técnico: **
 
 Ao registrar decisões ou solicitações, a ata deve detalhar:
 
@@ -307,7 +275,7 @@ Ao registrar decisões ou solicitações, a ata deve detalhar:
   - **Limitações:** O que pode falhar e quais as exceções da regra de negócio;
   - **Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
 
-### **Modelo de email:**
+#### **Modelo de email:**
 
   - **Destinatários: **(Responsáveis, techlead e o email: dev@laon.com.br);
   - **Título**: Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
@@ -324,24 +292,7 @@ Ao registrar decisões ou solicitações, a ata deve detalhar:
         Murilo Schreiner  
         Key Account Manager
 
------
-
-## **8. ReadAI (ou gravação/análise de reuniões)**
-
-  - Todas as reuniões devem ser gravadas com o ReadAI
-      - A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
-      - Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
-  - Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e: 
-      - Revisar pontos importantes;
-      - Identificar decisões não registradas;
-      - Validar tarefas geradas;
-      - Revisar todos os pontos discutidos na reunião. 
-  - Usar o ReadAI para melhorar comunicação e descrever melhor as tarefas e alterações. 
-
------
-
-## **9. Orçamentos**
-
+### **Orçamentos**
 Modelo de documento de orçamento:   
 [Proposta (Modelo) - Nome do projeto](https://docs.google.com/document/d/1YnW8dOX-Jrw70MZkevMnffqpYq-ptGMzoAgd_cEJ0Jo)  
 
@@ -376,7 +327,32 @@ Modelo de documento de orçamento:
   - Novo contato em 7 dias;
   - Seguir mantendo contato 1 vez a cada 7 dias.
 
------
+## **6.Coletas de Informações**
+- Coleta de contas:
+      - Marcar uma reunião com os clientes para auxiliar na criação de contas
+          - Caso o cliente não consiga realizar a reunião, enviar um vídeo ou tutorial de como obter as informações.
+#### **Domínio**
+#### **AWS**
+AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
+#### **Google Play Console (Develper)**
+Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
+#### **Apple Developer**
+Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
+#### **Outras contas e informações**
+
+## **7. Diretrizes de Comunicação**
+
+## **8. ReadAI (ou gravação/análise de reuniões)**
+
+  - Todas as reuniões devem ser gravadas com o ReadAI
+      - A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
+      - Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
+  - Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e: 
+      - Revisar pontos importantes;
+      - Identificar decisões não registradas;
+      - Validar tarefas geradas;
+      - Revisar todos os pontos discutidos na reunião. 
+  - Usar o ReadAI para melhorar comunicação e descrever melhor as tarefas e alterações. 
 
 ## **10. Checkpoints**
 
