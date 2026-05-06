@@ -132,7 +132,7 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 São boas práticas no agendamento das reuniões:
 1. Sempre ter horário definido de início e fim, prorrogações e atrasos podem eventualmente ocorrer, mas não devem ser levados como regra;
 2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
-3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.```;
+3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```text Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.```;
 4. Não se deve marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
@@ -160,7 +160,7 @@ Após a apresentação final dos protótipos e regras de negócio, bem como a co
 #### **Regras gerais e Follow-up**
 1. Validar aceite formal e por escrito ao email enviado;
 2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
-````Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.````
+````text Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.````
 3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
 
 ### **Entrega final de produto**
@@ -171,7 +171,7 @@ Após a reunião de entrega final do desenvolvimento e coleta das devidas altera
 
 #### **Regras gerais e Follow-up**
 1. Durante o período de validação, mantenha-se ativo no grupo, a cada 3 dias, verificando o andamento do processo, seguindo o seguinte modelo de mensagem:
-````Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.````
+````text Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.````
 
 ## **4. Gestão de Demandas pós entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
@@ -207,10 +207,10 @@ O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna `
 Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação do problema.  
 #### **Prazo**
 O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
-````Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
+````text Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
 #### **Devolutiva**
 Após a devolutiva do problema em daily pela equipe responsável, deve-se validar a correção, confirmando sua execução e solução. Após, informa-se o cliente seguindo a mensagem modelo:
-````Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. ```
+```` text Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. ```
 1. Deve-se avisar na daily do dia seguinte que houve a entrega da correção e qual foi o retorno do cliente. 
 
 ### **Alterações**
@@ -227,7 +227,9 @@ Deve haver um entendimento claro do pedido, em reunião pós-entrega com o clien
 1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento seguindo o modelo: MODELO DE DOCUEMNTO DE ALTERAÇÃOES;
 2. Validar as alterações  
 2. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
-```Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento```
+``` text 
+Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
+```
               - Enviar documento PDF junto com a mensagem. 
       - Validar tecnicamente com o tech lead;
       - Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
