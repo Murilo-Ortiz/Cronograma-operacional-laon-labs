@@ -53,15 +53,15 @@ Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de 
 Para uma boa organização de reuniões segue-se uma separação em [tipos](#tipos-de-reuniões), com processos definidos para seus [agendamentos](#agendamentos-de-reuniões) e [conduções](#boas-práticas-para-condução-em-reuniões).
 
 ### **Tipos de Reuniões**
-Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto. 
-#### **1.Kickoff**
+Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto: 
+#### **1. Kickoff**
 Reunião inicial com clientes, equipe de Product Design e responsáveis para apresentação do fluxo de criação do projeto e definição de escopo inicial. Ao final da reunião devem-se ter estabelecidos alguns pontos:
 1. Definição de escopo macro do projeto: qual é o problema a ser resolvido e quais requisitos devem ser considerados?
 2. Modelo de negócio e monetização;
 3. Alinhamento de expectativas;
 4. Definição de responsáveis.
 
-#### **2.Reuniões de acompanhamento de projeto**
+#### **2. Reuniões de acompanhamento de projeto**
 Reuniões com clientes e equipe de Product Design com o obejtivo de definir escopos, funcionalidades, fluxos, regras de negócio e telas do sistema. 
 
 As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do projeto e necessidade. Deve-se atentar para:
@@ -70,7 +70,7 @@ As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do pro
 3. Sanar pendências da reunião anterior (Dúvidas);
 4. Deixar sempre definida a data das próximas reuniões.
 
-#### **3.Reunião final de projeto**
+#### **3. Reunião final de projeto**
 Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a entrega dos protótipos, sanar dúvidas e coletar possíveis alterações. Após a apresentação das entregas, deve-se questionar o cliente sobre:
 1. Existência de CNPJ da empresa;
 2. Existência de Domínio e conta AWS para hospedagem do sistema;
@@ -79,7 +79,7 @@ As informações poderão ser coletadas em [Reuniões de acompanhamento de desen
 
 Veja a seção sobre coleta de contas e acessos: LINK.
     
-#### **4.Reuniões de acompanhamento de desenvolvimento**
+#### **4. Reuniões de acompanhamento de desenvolvimento**
 Reuniões com clientes para atualizações do desenvolvimento do projeto e coleta de informações necessárias. Durante as reuniões, deve-se atentar para:
 1. Atualizar os cliente quanto ao status dos projetos, informando as funcionalidades em desenvolvimemnto e a etapa em que cada projeto está (as informações devem ser coletadas em daily ou com o tech lead);
 2. Apresentar as próximas etapas e planejamento;
@@ -87,16 +87,26 @@ Reuniões com clientes para atualizações do desenvolvimento do projeto e colet
 
 Veja a seção sobre coleta de contas e acessos: LINK.
 
-#### **5.Reunião de entrega final**
-- Marcar reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
-- Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
-- Caso tenha bugs ou alterações a serem realizadas:
-    - Criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos.
-    - O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
+#### **5. Reunião de entrega final de produto**
+Reunião com clientes para formalização e entrega final do desenvolvimento do projeto, deve-se atentar para:
+##### **Antes da reunião**
+1. Marcar a reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
+2. Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
+3. Caso, durante o processo de validação, sejam encontrados bugs ou alterações a serem realizadas, deve-se criar um card nos modelos já definidos para realização dos itens e validar com o tech lead os prazos;
+4. O techlead deve definir se o produto está em condições de apresentação ou se é necessário remarcar a reunião de apresentação.
 
+##### **Durante a reunião**
+1. Seguir um fluxo de apresentação pré-planejado, mostrando os principais fluxos do projeto, estruturas de criação, edição e exclusão de dados;
+2. Verificar, a cada etapa da apresentação, o bom entendimento do cliente, sanando dúvidas que possam surgir;
+3. Coletar bugs ou alterações englobadas no escopo do projeto para ajuste;
+4. Coletar toda e qualquer dúvida que possa surgir e que não possua a resposta de imediato, para verificar e porteriormente enviar um retorno via WhatsApp;
+5. Informar o cliente do prazo de 15 a 20 dias após a entrega para uso e validação do sistema entregue. Seguir os protocolos de [validação e aprovação para entrega final de produto](#entrega-final-de-produto). 
 
-#### **6.Reunião de acompanhamento de produto e follow-up**
-ESCREVER
+#### **6. Reuniões de pós-entrega (acompanhamento de produto e follow-up)**
+Reuniões pós-entrega são utilizadas para coletar bugs para correção, alterações solicitadas, sanar dúvidas que possam surgir durante o processo de uso ou definir novas fases do projeto. 
+##### **Instruções gerais**
+1. Após a reunião de entrega, deve-se marcar após 15 ou 20 dias, uma nova reunião para coleta de feedbacks, alterações ou bugs encontrados durante a [validação](#entrega-final-de-produto);
+2. Próximas reuniões são marcadas de acordo com a necessidade do cliente, caso necessário, averiguando-se sempre o volume de demandas semanais, pode-se definir uma reunião periódica semanal durante um determinado período, até que o volume das dúvidas e solicitações diminua. 
 
 ### **Boas práticas para condução em reuniões:**
 Para que todas as reuniões ocorram conforme o esperado e siga o processo definido, observe as seguintes boas práticas:
@@ -119,13 +129,11 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 7. Convidar apenas quem é necessário.
 
 #### **Boas práticas para agendamentos**
-- Sempre ter horário definido de início e fim;
-- Sempre enviar 2 horários disponíveis da semana;
-- Confirmar presença (principalmente cliente);
-    - Enviar uma mensagem via WhatsApp 
-    - Modelo: Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h. 
-- Não marcar reuniões seguidas uma de outra;
-- Manter sempre uma reunião por turno (Manhã / Tarde);
+São boas práticas no agendamento das reuniões:
+1. Sempre ter horário definido de início e fim, prorrogações e atrasos podem eventualmente ocorrer, mas não devem ser levados como regra;
+2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
+3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.```;
+4. Não se deve marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
 Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, afim de formalizar as entregas.
@@ -155,11 +163,7 @@ Após a apresentação final dos protótipos e regras de negócio, bem como a co
 ````Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.````
 3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
 
-
-
-
-
-### **Entrega de desenvolvimento**
+### **Entrega final de produto**
 Após a reunião de entrega final do desenvolvimento e coleta das devidas alterações e bugs a serem corrigidos de acordo com o escopo. Deve-se aguardar o prazo de 15 dias após a reunião para cobrar uma devolutiva formal do cliente referente ao sistema entregue. 
 
 1. Agendar uma reunião pós-entrega, durante o período de validação, caso mostrem-se necessárias coletas de bugs, alterações englobadas no escopo ou esclarecimento de dúvidas do cliente;
@@ -174,66 +178,56 @@ Após a entrega final de desenvolvimento do projeto, é comum que apareçam dema
 
 ### **Bugs**
 Bugs são erros que se apresentam nas funcionalidades desenvolvidas, de forma que não funcionem como definido no escopo do projeto, como por exemplo, ação de resetar senha não funcionando ao logar, campos que deveriam estar preenchidos ou que deveriam ser editáveis e não o são, erros não tratados sendo mostrados no frontend final, etc.
+
+O protocolo de coleta de bugs engloba a [coleta de evidências](#coleta-de-evidências) e [abertura de card](#abertura-de-cards):
+
 #### Coleta de evidências
-- Inicialmente deve-se identificar o problema e tentar reproduzi-lo;
-      - Caso o sistema esteja em produção, deve-se pedir para o cliente um acesso de teste ou que envie um vídeo/prints identificando o problema;
-  - Analise o console do navegador (F12) e identifique possíveis erros que apareçam;
-  - Analise a aba de Network do inspecionar, verifique as requisições e os status delas;
+A coleta de evidências é parte crucial da gestão de demandas pós-entrega, deve-se após comunicado pelo cliente, extrair o máximo possível de informações para que a equipe responsável consiga reproduzir e corrigir o problema. Boas práticas na coleta de evidências incluem:
+
+1. Deve-se identificar o problema e tentar reproduzi-lo;
+2. Caso o sistema esteja em produção, deve-se pedir para o cliente um acesso de teste ou que envie um vídeo/prints identificando o problema;
+3. Analise o console do navegador (F12) e aba de network e identifique possíveis erros, requisições erradas, payloads e responses que apareçam e que possam auxiliar na identificação do problema;
+4. Identifique se o problema que está ocorrendo está dentro do escopo do projeto.
+
+Após a coleta das evidências e identificação do problema, segue-se para a abertura do card.
+
 #### Abertura de Cards
-- Criar o card de bug no squad correspondente do sistema:
-      - **Título**: Sistema + bug:
-          - Exemplo (Clientela - Bug)
-      - **Descrição**:
-          - Descrever o caminho até o bug;
-          - Descrever o problema;
-          - Descrever o comportamento esperado;
-          - Adicionar anexos e evidências.
-          - Exemplo: 
-              - Painel do Usuário \> Clientes \> Adicionar \> “Dados pessoais” \> CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.
-      - Anexos:
-          - Utilizar a seção de comentários no card do Slack para anexar os arquivos;
-          - Enviar arquivos junto com mensagem, a mensagem deve conter o texto:
-              - Bug/Task x(número) - breve descrição.
-                  - Com o objetivo de identificar a qual demanda criada pertence cada evidência.
-          - Os anexos devem conter evidências que auxiliem o responsável identificar o bug, como prints de erro no console, erros de requisição, vídeos demonstrando o fluxo do bug,etc.  
-  - **Aviso de abertura de bug:**
-      - Sempre informar na daily do próximo dia sobre a abertura do card de bug; informar o tech lead e realizar uma breve explicação.  
-  - **Prazo:**
-      - Coletar prazo de resolução junto à equipe responsável e informar o cliente.
-      - Modelo de mensagem:
-          - Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
+O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```DEV-TICKETS```. Para isso, segue-se o padrão:
+##### **Título**
+1. Utilizar como padrão: ```Nome do sistema + bug```; 
+2. Exemplo: ```Clientela - Bug```;
+##### **Descrição ou Subtarefas**
+1. Deve-se descrever o caminho ou fluxo até o bug, descrever o problema e o comportamento esperado.
+2. Exemplo ```Painel do Usuário \> Clientes \> Adicionar \> “Dados pessoais” \> CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.```
+##### **Anexos**
+1. Utilizar a seção de comentários no card do Slack para anexar os arquivos;
+2. Enviar arquivos junto com mensagem, a mensagem deve conter o texto: ```Bug (número) - breve descrição```, com o objetivo de identificar a qual demanda criada pertence cada evidência;
+3. Os anexos devem conter evidências que auxiliem o responsável identificar o bug, como prints de erro no console, erros de requisição, vídeos demonstrando o fluxo do bug,etc.  
+#### **Aviso de abertura de bug**
+Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação do problema.  
+#### **Prazo**
+O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
+````Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
+#### **Devolutiva**
+Após a devolutiva do problema em daily pela equipe responsável, deve-se validar a correção, confirmando sua execução e solução. Após, informa-se o cliente seguindo a mensagem modelo:
+````Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. ```
+1. Deve-se avisar na daily do dia seguinte que houve a entrega da correção e qual foi o retorno do cliente. 
+
 ### **Alterações**
-Alterações englobam pequenos ajustes de funcionalidades como permitir a edição de campos, alterar modelo de contrato D4Sign, alterar informações de registros via banco de dado, etc; e alterações estruturais, desenvolvimento de novas funcionalidades ou refatoração de já existentes. 
+Alterações englobam pequenos ajustes de funcionalidades como permitir a edição de campos, alterar modelos de contrato D4Sign, alterar informações de registros do sistema, etc; e alterações estruturais, desenvolvimento de novas funcionalidades não definidas em escopo ou refatoração de já existentes. 
 
-Algumas alterações, dependendo do impacto que possuem nas funcionalidades desenvolvidas, precisam passar por orçamento e aprovação para serem executadas.
+Algumas alterações, dependendo do impacto que possuem nas funcionalidades desenvolvidas, precisam passar por orçamento e aprovação para serem executadas, esse processo é definido pelo techlead.
 
-- Entendimento claro do pedido
-  - Criar o card no squad correspondente;
-      - Identificar se a alteração solicitada se encaixa como task ou alteração:
-          - Task: 
-              - Nome do card: Nome do projeto - Task;
-              - Coluna Kanban: Dev - Tickets;
-              - Subtarefas:
-                  -  Descrever o caminho e as ações a serem tomadas para chegar na tela onde a task será realizada;
-                  - Descrever a task a ser realizada.
-                  - Ex:
-                      - Painel do usuário \> clientes \> editar \> dados pessoais \> CPF. Tornar o campo CPF editável.
-              - Utilize a seção de comentários para anexar imagens que auxiliem a equipe a identificar o local a realizar a task.
-          - Alteração: 
-              - Nome do card: Nome do projeto - Alterações;
-              - Coluna Kanban:
-                  - Enquanto o documento de alterações estiver sendo escrito: PD - Briefing;
-                  - Após envio para validação do cliente: PD - Approval;
-                  - Após validação do cliente: DEV - Tickets;
-                  - Após enviar o documento para orçamento: PD - Approval;
-              - Subtarefas:
-                  - Inicialmente anexe o documento de alterações ao card, para manter a equipe ciente;
-                  - Após gerado o documento de orçamento, anexe ao card e avise o tech lead.
-              - O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as alterações no planejamento do squad.
-  - Protocolo de alterações:
-      - Enviar para o cliente validar o escopo;
-          - **Modelo de mensagem: **
-              - Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento;
+O processo de execução das alterações passa pelo fluxo:
+
+#### Coleta das informações:
+Deve haver um entendimento claro do pedido, em reunião pós-entrega com o cliente deve-se coletar a alteração a ser realizada;
+
+#### **Documento de Alterações**
+1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento seguindo o modelo: MODELO DE DOCUEMNTO DE ALTERAÇÃOES;
+2. Validar as alterações  
+2. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
+```Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento```
               - Enviar documento PDF junto com a mensagem. 
       - Validar tecnicamente com o tech lead;
       - Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
@@ -260,6 +254,34 @@ Algumas alterações, dependendo do impacto que possuem nas funcionalidades dese
           - Após o envio, cobrar após 3 dias, cobrar em dias alternados. 
       - Informar os prazos no email
       - Após a proposta aprovada pelo cliente, deve-se comunicar o tech lead para iniciar o desenvolvimento.
+
+#### Abertura de Cards
+O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```PD-BRIEFING```. Para isso, segue-se o padrão:
+##### **Título**
+1. Utilizar como padrão: ```Nome do sistema + Alteração```; 
+2. Exemplo: ```Clientela - Alteraçaõ ```;
+
+
+1. Descrever o caminho e as ações a serem tomadas para chegar na tela e descrever a task a ser realizada.
+2. Exemplo ```Painel do Usuário \> Clientes \> Adicionar \> “Dados pessoais” \> CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.```
+3. Para alterações maiores deve-se construir um documento de alterações, seguindo o modelo, adicioná-lo na pasta do Drive "Laon - Produtos" e inserir o link nos comentários do card.
+##### **Anexos**
+1. Utilizar a seção de comentários para anexar arquivos necessários para a alteração.
+#### **Aviso de abertura de bug**
+Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação das alterações solicitadas.
+
+
+
+
+              - Coluna Kanban:
+                  - Enquanto o documento de alterações estiver sendo escrito: PD - Briefing;
+                  - Após envio para validação do cliente: PD - Approval;
+                  - Após validação do cliente: DEV - Tickets;
+                  - Após enviar o documento para orçamento: PD - Approval;
+              - Subtarefas:
+                  - Inicialmente anexe o documento de alterações ao card, para manter a equipe ciente;
+                  - Após gerado o documento de orçamento, anexe ao card e avise o tech lead.
+              - O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as alterações no planejamento do squad.
 
 ### Entregas de Alterações e Correções
 
