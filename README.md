@@ -207,7 +207,8 @@ O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna `
 Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação do problema.  
 #### **Prazo**
 O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
-````text Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
+````text
+ Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
 #### **Devolutiva**
 Após a devolutiva do problema em daily pela equipe responsável, deve-se validar a correção, confirmando sua execução e solução. Após, informa-se o cliente seguindo a mensagem modelo:
 ```` text Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. ```
