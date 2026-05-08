@@ -3,19 +3,17 @@ O Key Account Manager é o responsável por garantir o sucesso do cliente e o al
 
 ## **Principais processos executados**
 Os principais processos gerenciados pelo KAM e descritos nessa documentação são:
-1. [Onboarding de Clientes](#1-onboarding-de-cliente); 
-2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões);
+1. [Onboarding de Clientes](#1-onboarding-de-cliente)
+2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões)
 3. [Validações e Aprovações formais](#3-validações-e-aprovações)
-4. [Gestão de Demandas Pós-entrega](#4-gestão-de-demandas-pós-entrega);
-4. [Gerenciamento de Documentações](#5documentações);
-5. [Coletas de contas e acessos](#6coletas-de-informações);
-6. [Atualização Semanal de Projetos]();
+4. [Gestão de Demandas Pós-entrega](#4-gestão-de-demandas-pós-entrega)
+5. [Gerenciamento de Documentações](#5-documentações)
+6. [Coletas de contas e acessos](#6-coletas-de-informações)
 
 ### **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se, também algumas regras gerais:
-1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação);
-2. [Cronograma operacional]();
-2. [Boas práticas na execução do cargo]().
+1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação)
+2. [Cronograma operacional](#cronograma-operacional)
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
@@ -37,14 +35,14 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 3. Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
 ### **Mensagem de Boas Vindas e Agendamento de Kickoff**
 1. Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
-2. Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência entre para a reunião.
+2. Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência para a reunião.
 #### **Modelo de mensagem**:
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
  
  Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Key Account Manager de vocês e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
  
- Este é o grupo oficial do projeto, por aqui, iremos manter todas as comunicações relacionadas ao projeto, com excessão das aprovações formais que serão via email. 
+ Este é o grupo oficial do projeto, por aqui, iremos manter todas as comunicações relacionadas ao projeto, com exceção das aprovações formais que serão via email. 
 
 Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de Kickoff com vocês, conseguimos [DATAS E HORÁRIOS DISPONÍVEIS]?
  ```
@@ -77,7 +75,7 @@ Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a
 3. Coleta de acessos à softwares e/ou contas de terceiros que terão integrações com o sistema; 
 As informações poderão ser coletadas em [Reuniões de acompanhamento de desenvolvimento](#reuniões-de-acompanhamento-de-desenvolvimento) de acordo com a necessidade ou prazos definidos (eg: criação de conta AWS depende de CNPJ válido e aprovado);
 
-Veja a seção sobre coleta de contas e acessos: LINK.
+Veja a seção sobre coleta de [contas e acessos](#6coletas-de-informações).
     
 #### **4. Reuniões de acompanhamento de desenvolvimento**
 Reuniões com clientes para atualizações do desenvolvimento do projeto e coleta de informações necessárias. Durante as reuniões, deve-se atentar para:
@@ -85,7 +83,7 @@ Reuniões com clientes para atualizações do desenvolvimento do projeto e colet
 2. Apresentar as próximas etapas e planejamento;
 3. Coletar itens pendentes de envio (acessos, informações, identidade visual, imagens, arquivos, etc).
 
-Veja a seção sobre coleta de contas e acessos: LINK.
+Veja a seção sobre coleta de [contas e acessos](#6coletas-de-informações).
 
 #### **5. Reunião de entrega final de produto**
 Reunião com clientes para formalização e entrega final do desenvolvimento do projeto, deve-se atentar para:
@@ -132,7 +130,9 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 São boas práticas no agendamento das reuniões:
 1. Sempre ter horário definido de início e fim, prorrogações e atrasos podem eventualmente ocorrer, mas não devem ser levados como regra;
 2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
-3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```text Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.```;
+3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```text
+ Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.
+ ```;
 4. Não se deve marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
@@ -141,10 +141,10 @@ Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se 
 ### **Entrega final dos protótipos**
 Após a apresentação final dos protótipos e regras de negócio, bem como a correção de quaisquer pontos que tenham sido levantados nas últimas reuniões, deve-se enviar um email com todos os materiais do projeto em formato PDF para os clientes:
 #### **Formalização da aprovação por email**
-1. **Destinatários:** Email dos responsáveis pelo projeto, clientes, equipe da laon envolvida e ````dev@laon.com.br````;
-2. **Título do Email:**````Aprovação protótipos - (NOME DO PROJETO)````;
+1. **Destinatários:** Email dos responsáveis pelo projeto, clientes, equipe da laon envolvida e ```dev@laon.com.br```;
+2. **Título do Email:**```Aprovação protótipos - (NOME DO PROJETO)```;
 3. **Corpo do email:**
-````Prezados, bom dia/boa tarde!
+```Prezados, bom dia/boa tarde!
 
     Encaminho em anexo os protótipos do sistema da plataforma NOME DO PROJETO, em formato PDF, juntamente com o link de regras do notion (Link das regras de negócio - Notion).
 
@@ -154,13 +154,15 @@ Após a apresentação final dos protótipos e regras de negócio, bem como a co
 
     NOME  
     Key Account Manager
-````
+```
 4. Anexos: enviar os PDFs dos protótipos separados por painel;
 
 #### **Regras gerais e Follow-up**
 1. Validar aceite formal e por escrito ao email enviado;
 2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
-````text Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.````
+```text 
+Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
+```
 3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
 
 ### **Entrega final de produto**
@@ -171,7 +173,8 @@ Após a reunião de entrega final do desenvolvimento e coleta das devidas altera
 
 #### **Regras gerais e Follow-up**
 1. Durante o período de validação, mantenha-se ativo no grupo, a cada 3 dias, verificando o andamento do processo, seguindo o seguinte modelo de mensagem:
-````text Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.````
+```text 
+Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.```
 
 ## **4. Gestão de Demandas pós entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
@@ -207,11 +210,14 @@ O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna `
 Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação do problema.  
 #### **Prazo**
 O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
-````text
- Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. ```
+```text
+Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
+```
 #### **Devolutiva**
 Após a devolutiva do problema em daily pela equipe responsável, deve-se validar a correção, confirmando sua execução e solução. Após, informa-se o cliente seguindo a mensagem modelo:
-```` text Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. ```
+```text 
+Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. 
+```
 1. Deve-se avisar na daily do dia seguinte que houve a entrega da correção e qual foi o retorno do cliente. 
 
 ### **Alterações**
@@ -225,226 +231,160 @@ O processo de execução das alterações passa pelo fluxo:
 Deve haver um entendimento claro do pedido, em reunião pós-entrega com o cliente deve-se coletar a alteração a ser realizada;
 
 #### **Documento de Alterações**
-1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento seguindo o modelo: MODELO DE DOCUEMNTO DE ALTERAÇÃOES;
-2. Validar as alterações  
-2. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
-``` text 
+1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento com a descrição das alterações;
+2. Validar as alterações com tech lead se são factíveis levando em consideração o contexto do projeto;  
+3. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
+```text 
 Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
 ```
-              - Enviar documento PDF junto com a mensagem. 
-      - Validar tecnicamente com o tech lead;
-      - Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
-      - Após aprovado pelo cliente, avisar o tech lead para revisão;
-      - Ajustar o documento para o padrão de orçamento;
-          - [Proposta (Modelo) - Nome do projeto](https://docs.google.com/document/d/1YnW8dOX-Jrw70MZkevMnffqpYq-ptGMzoAgd_cEJ0Jo) 
-      - Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente.
-          - Email deve conter uma breve descrição dos pontos que constam no documento, datas e prazos e cobrar a formalização de aprovação da proposta via email.
-          - Modelo de email:
-              - **Destinatários: **(Responsáveis, techlead e o email: dev@laon.com.br)
-              - **Título**: Proposta de alterações - **(Nome do projeto)**
-              - **Saudação**: Prezados, boa tarde\!
-              - **Corpo:**
-                  - Segue em anexo a proposta referente aos desenvolvimentos das funcionalidades solicitadas para o sistema da **(Nome do projeto)***.*
-                  - O prazo estimado para entrega das alterações é de até **xx dias, após o início das atividades no dia xx/xx/xxxx. **considerando o tempo necessário para as etapas de prototipação, desenvolvimento e testes.
-                  - Ficamos no aguardo da aprovação para darmos início. A confirmação pode ser feita diretamente por e-mail, respondendo a esta mensagem.
-                  - Qualquer dúvida, estamos à disposição.
-              - **Anexos:**
-              - **Assinatura:**
-                  - Atenciosamente,  
-                    Murilo Schreiner  
-                    Key Account Manager
-      - Cobrar retorno do cliente até que aprove ou negue o orçamento enviado via email.
-          - Após o envio, cobrar após 3 dias, cobrar em dias alternados. 
-      - Informar os prazos no email
-      - Após a proposta aprovada pelo cliente, deve-se comunicar o tech lead para iniciar o desenvolvimento.
+3. Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
+4. Após aprovado pelo cliente, avisar o tech lead para revisão;
+
+#### **Documento de orçamento**
+1. Após aprovado pelo cliente, deve-se criar o documento de orçamento seguindo o modelo descrito na seção [Orçamento](#orçamentos)
+2. Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente.
+3. Email deve conter uma breve descrição dos pontos que constam no documento, datas e prazos e cobrar a formalização de aprovação da proposta via email.
+##### **Modelo de email**
+1. Destinatários: ```Responsáveis, techlead e o email: dev@laon.com.br```
+2. Título: ```Proposta de alterações - Nome do projeto```
+3. Corpo do email: 
+```text
+Prezados, boa tarde\!
+Segue em anexo a proposta referente aos desenvolvimentos das funcionalidades solicitadas para o sistema da Nome do projeto.
+O prazo estimado para entrega das alterações é de até **xx dias, após o início das atividades no dia xx/xx/xxxx considerando o tempo necessário para as etapas de prototipação, desenvolvimento e testes.
+Ficamos no aguardo da aprovação para darmos início. A confirmação pode ser feita diretamente por e-mail, respondendo a esta mensagem.
+Qualquer dúvida, estamos à disposição.
+Atenciosamente,  
+Murilo Schreiner  
+Key Account Manager
+```
+##### **Após envio de email**
+1. Cobrar retorno do cliente até que aprove ou negue o orçamento enviado via email.
+2. Após o envio, cobrar após 3 dias, cobrar em dias alternados. 
+3. Após a proposta aprovada pelo cliente, deve-se comunicar o tech lead para iniciar o desenvolvimento.
 
 #### Abertura de Cards
 O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```PD-BRIEFING```. Para isso, segue-se o padrão:
 ##### **Título**
-1. Utilizar como padrão: ```Nome do sistema + Alteração```; 
-2. Exemplo: ```Clientela - Alteraçaõ ```;
-
-
-1. Descrever o caminho e as ações a serem tomadas para chegar na tela e descrever a task a ser realizada.
-2. Exemplo ```Painel do Usuário \> Clientes \> Adicionar \> “Dados pessoais” \> CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.```
-3. Para alterações maiores deve-se construir um documento de alterações, seguindo o modelo, adicioná-lo na pasta do Drive "Laon - Produtos" e inserir o link nos comentários do card.
+1. Utilizar como padrão: ```Nome do sistema - Alteração```; 
+2. Exemplo: ```Clientela - Alteração ```;
 ##### **Anexos**
-1. Utilizar a seção de comentários para anexar arquivos necessários para a alteração.
-#### **Aviso de abertura de bug**
+1. Inicialmente anexe o documento de alterações ao card, para manter a equipe ciente;
+2. Após gerado o documento de orçamento, anexe ao card e avise o tech lead.
+3. O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as alterações no planejamento do squad.
+##### **Fluxo Kanban**
+1. Enquanto o documento de alterações estiver sendo escrito: PD - Briefing;
+2. Após envio para validação do cliente: PD - Approval;
+3. Após validação do cliente: DEV - Tickets;
+4. Após enviar o documento para orçamento: PD - Approval;
+##### **Aviso de abertura de card**
 Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação das alterações solicitadas.
 
-
-
-
-              - Coluna Kanban:
-                  - Enquanto o documento de alterações estiver sendo escrito: PD - Briefing;
-                  - Após envio para validação do cliente: PD - Approval;
-                  - Após validação do cliente: DEV - Tickets;
-                  - Após enviar o documento para orçamento: PD - Approval;
-              - Subtarefas:
-                  - Inicialmente anexe o documento de alterações ao card, para manter a equipe ciente;
-                  - Após gerado o documento de orçamento, anexe ao card e avise o tech lead.
-              - O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as alterações no planejamento do squad.
-
-### Entregas de Alterações e Correções
+#### Entregas de Alterações e Correções
+Após o comunicado da equipe responsável de que a task foi finalizada, deve-se:
+1. Verificar se a correção/alteração foi realizada com sucesso, testando o fluxo de ponta a ponta;
+2. Caso algum comportamento não seja o esperado, o card deve voltar para a equipe de desenvolvimento para correção;
+3. Após validado, solicita-se a validação do cliente com a mensagem modelo:
+```text
+Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brevemente). Poderiam verificar, por gentileza? Fico no aguardo.
+```
 
 ## **5.Documentações**
 ### **Atas de Reunião**
+Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizando o relatório gerado pelo Read AI e formatada utilizando IA para se adequar ao modelo padrão.
+
+#### **ReadAI (ou gravação/análise de reuniões)**
+1. Todas as reuniões devem ser gravadas com o ReadAI
+2. A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
+3. Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
+4. Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e usar o ReadAI para melhorar comunicação e descrever melhor as tarefas, alterações e escrita da ata no modelo utilizando outras IA's generativas.
+
 #### **Modelo e Regras de escrita das atas: **
 
 [Regras - Ata de reunião - Laon Labs](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
 
-  - As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
-  - Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
+1. As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
+2. Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
 
 #### **Detalhamento Técnico: **
 
 Ao registrar decisões ou solicitações, a ata deve detalhar:
 
-  - **Caminho**: Definir a tela ou local exato da alteração.
-  - **Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
-  - **Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
-  - **Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
-  - **Limitações:** O que pode falhar e quais as exceções da regra de negócio;
-  - **Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
+1. **Caminho**: Definir a tela ou local exato da alteração.
+2. **Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
+3. **Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
+4. **Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
+5. **Limitações:** O que pode falhar e quais as exceções da regra de negócio;
+6. **Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
 
 #### **Modelo de email:**
 
-  - **Destinatários: **(Responsáveis, techlead e o email: dev@laon.com.br);
-  - **Título**: Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
-  - **Saudação**: Prezados, boa tarde\!
-  - **Corpo:**
-      - Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
+1. **Destinatários:** (Responsáveis, techlead e o email: ```dev@laon.com.br```);
+2. **Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
+3. **Corpo:** 
+```text
+Prezados, boa tarde\!
+Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
           
-        O documento contém uma descrição dos principais pontos discutidos.   
+O documento contém uma descrição dos principais pontos discutidos.   
           
-        Fico à disposição para qualquer dúvida ou esclarecimento. 
-  - **Anexos: **Anexar a ata em formato PDF;
-  - **Assinatura:**
-      - Atenciosamente,  
-        Murilo Schreiner  
-        Key Account Manager
+Fico à disposição para qualquer dúvida ou esclarecimento. 
+ 
+Atenciosamente,  
+Murilo Schreiner  
+ Key Account Manager
+ ```
+ 4. **Anexos:** Anexar a ata em formato PDF;
 
 ### **Orçamentos**
 Modelo de documento de orçamento:   
 [Proposta (Modelo) - Nome do projeto](https://docs.google.com/document/d/1YnW8dOX-Jrw70MZkevMnffqpYq-ptGMzoAgd_cEJ0Jo)  
 
-  - Escopo claro;
-  - Os itens devem estar separados por funcionalidade conforme modelo;
-  - Abrir um card em dev tickets para que o techlead realize o orçamento;
-  - Informar na daily do dia seguinte sobre a abertura do card;
-  - Revisar se o documento contém:
-      - Quantidade de horas;
-      - Prazo;
-      - Valor;
-      - Estimativa de início das atividades.
-  - Condições de pagamento;
-  - Envio formal por email para o(s) responsável do projeto:
-      - O email deve seguir o padrão:
-          - **Título**: Proposta de alterações - Nome do projeto
-          - **Saudações**: “Prezados, boa tarde\!”
-          - **Corpo do email:**
-              - Segue em anexo a proposta referente aos desenvolvimentos das funcionalidades solicitadas para o sistema da (Nome do projeto)*.*
-              - O prazo estimado para entrega das alterações é de até **xx dias, após o início das atividades no dia xx/xx/xxxx. **considerando o tempo necessário para as etapas de prototipação, desenvolvimento e testes.
-              - Ficamos no aguardo da aprovação para darmos início. A confirmação pode ser feita diretamente por e-mail, respondendo a esta mensagem.
-              - Qualquer dúvida, estamos à disposição.
-          - Dados do emissor:
-              - Atenciosamente,  
-                Murilo Schreiner  
-                Key Account Manager
-
-### **Pós-envio:**
-
-  - Follow-up em até 24h;
-  - Novo contato em 3 dias;
-  - Novo contato em 7 dias;
-  - Seguir mantendo contato 1 vez a cada 7 dias.
+1. Escopo claro;
+2. Os itens devem estar separados por funcionalidade conforme modelo;
+3. Abrir um card em dev tickets para que o techlead realize o orçamento;
+4. Informar na daily do dia seguinte sobre a abertura do card;
+5. Revisar se o documento contém quantidade de horas, prazo, valor e estimativa de início das atividades;
 
 ## **6.Coletas de Informações**
-- Coleta de contas:
-      - Marcar uma reunião com os clientes para auxiliar na criação de contas
-          - Caso o cliente não consiga realizar a reunião, enviar um vídeo ou tutorial de como obter as informações.
+Para que os projetos sejam executados, são necessárias alguns acessos e contas para a equipe realizar o deploy do projeto.
+
 #### **Domínio**
+PENDENTE
 #### **AWS**
 AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
+DOCUMENTO PENDENTE
 #### **Google Play Console (Develper)**
 Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
+DOCUMENTO PENDENTE
 #### **Apple Developer**
-Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
-#### **Outras contas e informações**
+Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias.
+DOCUEMTNO PENDENTE 
 
 ## **7. Diretrizes de Comunicação**
+1. Manter a comunicação apenas no canal dos squads, evitando conversas diretas com desenvolvedores e/ou Product Designers, apenas quando estritamente necessário;
+2. Manter as comunicações com os clientes sempre nos grupos, evitando conversas paralelas e mantendo todos da equipe cientes do endamento e das decisões tomadas.
 
-## **8. ReadAI (ou gravação/análise de reuniões)**
 
-  - Todas as reuniões devem ser gravadas com o ReadAI
-      - A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
-      - Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
-  - Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e: 
-      - Revisar pontos importantes;
-      - Identificar decisões não registradas;
-      - Validar tarefas geradas;
-      - Revisar todos os pontos discutidos na reunião. 
-  - Usar o ReadAI para melhorar comunicação e descrever melhor as tarefas e alterações. 
+## **8. Cronograma Operacional**
+### **Segunda-feira:**
+1. Atualizar os status de projetos ativos de acordo com a demanda;
+2. Validar reuniões já marcadas para a semana;
+3. Agendar novas reuniões necessárias;
+4. Priorizar demandas da semana.
 
-## **10. Checkpoints**
+### **Terça a sexta:**
+1. Acompanhamento de reuniões com clientes;
+2. Participar nas dailies;
+3. Acompanhamento de projetos;
+4. Cobranças e follow-ups;
+5. Escritas de Documentações:
 
-Seguir uma estrutura de checkpoints é uma boa prática para estruturar as entregas de projeto para o cliente;
-
-  - Antes da entrega, deve-se testar todos os fluxos do sistema, utilizando como base as documentações e protótipos existentes. 
-      - Bugs identificados durante o processo de teste devem ser repassados para correção;
-      - Problemas de escopo, como funcionalidades ainda não desenvolvida:
-          - Verificar status do desenvolvimento com o TechLead;
-          - Informar o cliente;
-  - Após a entrega e o envio dos acessos para validação do cliente, deve-se verificar:
-      - Validação do cliente e coleta de feedbacks: marcar reunião após 15 dias da entrega para coleta de feedback e alterações;
-      - Definir próximo passo e, se necessário, marcar reuniões regulares, após entrega para coleta de usabilidade do sistema e possíveis bugs/tasks a serem realizadas.
-
-#**Cronograma opercaional**
-## **Segunda-feira:**
-
-  - Atualizar status de **todos os projetos ativos;**
-  - Validar reuniões já marcadas;
-  - Agendar novas reuniões necessárias;
-  - Priorizar demandas da semana.
-
-## **Terça a sexta:**
-
-  - Acompanhamento de reuniões com clientes;
-  - Participar nas dailies;
-  - Acompanhamento de projetos;
-  - Cobranças e follow-ups;
-  - Documentações:
-      - Alterações, bugs, atas de reuniões e orçamentos.
-
-# **ROTINA DIÁRIA**
-
-## **Início do dia**
-
-  - Revisar agenda do dia;
-  - Checar mensagens e e-mails;
-  - Conferir se há reuniões sem confirmação;
-  - Participação nas dailies
-
-## **Durante o dia**
-
-  - Executar ou acompanhar reuniões;
-  - Criar documentos;
-  - Enviar materiais pós-reunião;
-
-## **1. Atualização semanal de projetos**
-
-**Frequência:** 1x por semana (Segunda-feira)
-
-Checklist:
-
-  - Status atual (em andamento / bloqueado / entregue)
-  - Enviar as fases do projeto;
-  - Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
-  - Próximos passos;
-  - Cobrar informações pendentes por parte do cliente;
-  - Checklist de solicitações pendentes de envio por parte do cliente.
-      - Como:
-          - Contas;
-          - Documentos;
-          - Informações relevantes para o desenvolvimento do projeto.
+### Atualização de projetos**
+#### Checklist:
+1. Status atual (em andamento / bloqueado / entregue)
+2. Enviar as fases do projeto;
+3. Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
+4. Próximos passos;
+5. Cobrar informações pendentes por parte do cliente;
+6. Checklist de solicitações pendentes de envio por parte do cliente, como contas, documentosm e informações relevantes para o desenvolvimento do projeto.
