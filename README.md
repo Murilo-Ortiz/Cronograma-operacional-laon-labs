@@ -131,7 +131,7 @@ São boas práticas no agendamento das reuniões:
 2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
 3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: 
 ```
-Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.
+Bom dia/Boa tarde, pessoal! Passando para confirmar a nossa reunião hoje às \_\_h.
 ```
 
 4. Não se devem marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
@@ -140,7 +140,7 @@ Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \
 Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, afim de formalizar as entregas.
 
 ### **Entrega final dos protótipos**
-Após a apresentação final dos protótipos e regras de negócio, bem como a correção de quaisquer pontos que tenham sido levantados nas últimas reuniões, deve-se enviar um email com todos os materiais do projeto em formato PDF para os clientes:
+Após a [apresentação final dos protótipos](#3-reunião-final-de-projeto) e regras de negócio, bem como a correção de quaisquer pontos que tenham sido levantados nas últimas reuniões, deve-se enviar um email com todos os materiais do projeto em formato PDF para os clientes:
 #### **Formalização da aprovação por email**
 1. **Destinatários:** Email dos responsáveis pelo projeto, clientes, equipe da laon envolvida e ```dev@laon.com.br```;
 2. **Título do Email:**```Aprovação protótipos - (NOME DO PROJETO)```;
@@ -162,8 +162,9 @@ Após a apresentação final dos protótipos e regras de negócio, bem como a co
 1. Validar aceite formal e por escrito ao email enviado;
 2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
 ```
-Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
+Bom dia/Boa tarde, pessoal! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
 ```
+
 3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
 
 ### **Entrega final de produto**
@@ -174,8 +175,9 @@ Após a reunião de entrega final do desenvolvimento e coleta das devidas altera
 
 #### **Regras gerais e Follow-up**
 1. Durante o período de validação, mantenha-se ativo no grupo, a cada 3 dias, verificando o andamento do processo, seguindo o seguinte modelo de mensagem:
-```text 
-Bom dia/Boa tarde, pessoal\! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.```
+```
+Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.
+```
 
 ## **4. Gestão de Demandas pós entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
@@ -212,12 +214,12 @@ Após aberto o card deve-se sempre informar na daily do próximo dia, informando
 #### **Prazo**
 O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
 ```text
-Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
+Bom dia/Boa tarde, pessoal! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
 ```
 #### **Devolutiva**
 Após a devolutiva do problema em daily pela equipe responsável, deve-se validar a correção, confirmando sua execução e solução. Após, informa-se o cliente seguindo a mensagem modelo:
 ```text 
-Bom dia/Boa tarde, pessoal\! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. 
+Bom dia/Boa tarde, pessoal! Sobre o problema (descrever brevemente o problema), finalizamos a correção/solicitação, se puderem verificar, por gentileza, fico no aguardo e à disposição caso precisem de mais alguma coisa. 
 ```
 1. Deve-se avisar na daily do dia seguinte que houve a entrega da correção e qual foi o retorno do cliente. 
 
@@ -236,7 +238,7 @@ Deve haver um entendimento claro do pedido, em reunião pós-entrega com o clien
 2. Validar as alterações com tech lead se são factíveis levando em consideração o contexto do projeto;  
 3. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
 ```text 
-Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
+Bom dia/Boa tarde/pessoal! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
 ```
 3. Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
 4. Após aprovado pelo cliente, avisar o tech lead para revisão;
@@ -250,7 +252,7 @@ Bom dia/Boa tarde/pessoal\! Segue o documento com a descrição das alterações
 2. Título: ```Proposta de alterações - Nome do projeto```
 3. Corpo do email: 
 ```text
-Prezados, boa tarde\!
+Prezados, boa tarde!
 Segue em anexo a proposta referente aos desenvolvimentos das funcionalidades solicitadas para o sistema da Nome do projeto.
 O prazo estimado para entrega das alterações é de até **xx dias, após o início das atividades no dia xx/xx/xxxx considerando o tempo necessário para as etapas de prototipação, desenvolvimento e testes.
 Ficamos no aguardo da aprovação para darmos início. A confirmação pode ser feita diretamente por e-mail, respondendo a esta mensagem.
@@ -324,7 +326,7 @@ Ao registrar decisões ou solicitações, a ata deve detalhar:
 2. **Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
 3. **Corpo:** 
 ```text
-Prezados, boa tarde\!
+Prezados, boa tarde!
 Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
           
 O documento contém uma descrição dos principais pontos discutidos.   
