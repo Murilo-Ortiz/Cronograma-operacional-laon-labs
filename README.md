@@ -134,7 +134,7 @@ São boas práticas no agendamento das reuniões:
 Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.
 ```
 
-4. Não se deve marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
+4. Não se devem marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
 Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, afim de formalizar as entregas.
@@ -156,12 +156,12 @@ Após a apresentação final dos protótipos e regras de negócio, bem como a co
     NOME  
     Key Account Manager
 ```
-4. Anexos: enviar os PDFs dos protótipos separados por painel;
+4. Anexos: enviar os PDFs dos protótipos separados por painel.
 
 #### **Regras gerais e Follow-up**
 1. Validar aceite formal e por escrito ao email enviado;
 2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
-```text 
+```
 Bom dia/Boa tarde, pessoal\! Conseguiram validar os protótipos encaminhados? Aguardo a formalização da aprovação via email para darmos prosseguimento no projeto.
 ```
 3. Após o envio, cobrar uma devolutiva ou aprovação formal via email em 24h e a cada 3 dias, ou quando solicitado pelo tech lead do projeto.
