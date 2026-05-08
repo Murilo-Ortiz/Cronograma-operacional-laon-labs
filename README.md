@@ -234,11 +234,11 @@ Após a coleta das evidências e identificação do problema, segue-se para a ab
 #### Abertura de Cards
 O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```DEV-TICKETS```. Para isso, segue-se o padrão:
 ##### **Título**
-1. Utilizar como padrão: ```Nome do sistema + bug```; 
-2. Exemplo: ```Clientela - Bug```;
+1. Utilizar como padrão: ```Nome do sistema - Bug```; 
+2. Exemplo: ```Clientela - Bug```.
 ##### **Descrição ou Subtarefas**
-1. Deve-se descrever o caminho ou fluxo até o bug, descrever o problema e o comportamento esperado.
-2. Exemplo ```Painel do Usuário \> Clientes \> Adicionar \> “Dados pessoais” \> CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.```
+1. Deve-se descrever o caminho ou fluxo até o bug, descrever o problema e o comportamento esperado;
+2. Exemplo ```Painel do Usuário > Clientes > Adicionar > “Dados pessoais” > CPF. O campo de CPF não está permitindo digitar números, deveria ser possível inserir números no campo.```
 ##### **Anexos**
 1. Utilizar a seção de comentários no card do Slack para anexar os arquivos;
 2. Enviar arquivos junto com mensagem, a mensagem deve conter o texto: ```Bug (número) - breve descrição```, com o objetivo de identificar a qual demanda criada pertence cada evidência;
@@ -246,7 +246,7 @@ O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna `
 #### **Aviso de abertura de bug**
 Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação do problema.  
 #### **Prazo**
-O prazo padrão para correções de bugs é de até 48h, porém deve-se coletar junto à equipe responsável e repassado para o cliente, seguindo a mensagem modelo:
+O prazo padrão para correções de bugs é de até 48h, salvo exceções, entretanto deve-se coletar junto à equipe responsável o e repassado para o cliente, quando necessário, seguindo a mensagem modelo:
 ```text
 Bom dia/Boa tarde, pessoal! Sobre o problema (descrever brevemente o problema), temos um prazo para resolução até (colocar prazo). Assim que estiver resolvido trago um retorno para vocês. Fico à disposição caso precisem de mais alguma coisa. 
 ```
@@ -260,26 +260,31 @@ Bom dia/Boa tarde, pessoal! Sobre o problema (descrever brevemente o problema), 
 ### **Alterações**
 Alterações englobam pequenos ajustes de funcionalidades como permitir a edição de campos, alterar modelos de contrato D4Sign, alterar informações de registros do sistema, etc; e alterações estruturais, desenvolvimento de novas funcionalidades não definidas em escopo ou refatoração de já existentes. 
 
-Algumas alterações, dependendo do impacto que possuem nas funcionalidades desenvolvidas, precisam passar por orçamento e aprovação para serem executadas, esse processo é definido pelo techlead.
+Algumas alterações, dependendo do impacto que possuem nas funcionalidades desenvolvidas, precisam passar por orçamento e aprovação para serem executadas, esse processo é definido pelo Tech Lead responsável pelo projeto.
 
 O processo de execução das alterações passa pelo fluxo:
+1. Coleta das informações;
+2. Docuemento de Alterações e aprovação pelo cliente;
+3. Orçamento e aprovação;
+4. Execução das atividades descritas;
+5. Validação e Entrega. 
 
-#### Coleta das informações:
+#### **1. Coleta das informações**:
 Deve haver um entendimento claro do pedido, em reunião pós-entrega com o cliente deve-se coletar a alteração a ser realizada;
 
-#### **Documento de Alterações**
+#### **2. Documento de Alterações**
 1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento com a descrição das alterações;
 2. Validar as alterações com tech lead se são factíveis levando em consideração o contexto do projeto;  
-3. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o docuemnto em PDF junto com a mensagem:
-```text 
+3. Enviar para o cliente validar o escopo, seguindo a mensagem modelo e anexando o documento em PDF junto com a mensagem:
+``` 
 Bom dia/Boa tarde/pessoal! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
 ```
 3. Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
-4. Após aprovado pelo cliente, avisar o tech lead para revisão;
+4. Após aprovado pelo cliente, avisar o tech lead para revisão.
 
-#### **Documento de orçamento**
-1. Após aprovado pelo cliente, deve-se criar o documento de orçamento seguindo o modelo descrito na seção [Orçamento](#orçamentos)
-2. Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente.
+#### **3. Documento de orçamento**
+1. Após aprovado pelo cliente, e indicado pelo Tech Lead que será necessário orçamento para as alterações deve-se criar o documento seguindo o modelo descrito na seção [Orçamento](#orçamentos);
+2. Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente;
 3. Email deve conter uma breve descrição dos pontos que constam no documento, datas e prazos e cobrar a formalização de aprovação da proposta via email.
 ##### **Modelo de email**
 1. Destinatários: ```Responsáveis, techlead e o email: dev@laon.com.br```
@@ -296,47 +301,47 @@ Murilo Schreiner
 Key Account Manager
 ```
 ##### **Após envio de email**
-1. Cobrar retorno do cliente até que aprove ou negue o orçamento enviado via email.
-2. Após o envio, cobrar após 3 dias, cobrar em dias alternados. 
-3. Após a proposta aprovada pelo cliente, deve-se comunicar o tech lead para iniciar o desenvolvimento.
+1. Cobrar retorno do cliente até que aprove ou negue o orçamento enviado via email;
+2. Após o envio, cobrar após 3 dias, cobrar em dias alternados;
+3. Após a proposta aprovada pelo cliente, deve-se comunicar o Tech Lead para aplicação de processos internos e iniciar o desenvolvimento.
 
 #### Abertura de Cards
-O card deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```PD-BRIEFING```. Para isso, segue-se o padrão:
+O card de alterações deve ser aberto junto com o início da descrição das alterações e deve ser aberto no Kanban do squad correspondente ao projeto, na coluna ```PD-BRIEFING```. Para isso, segue-se o padrão:
 ##### **Título**
 1. Utilizar como padrão: ```Nome do sistema - Alteração```; 
-2. Exemplo: ```Clientela - Alteração ```;
+2. Exemplo: ```Clientela - Alteração ```.
 ##### **Anexos**
 1. Inicialmente anexe o documento de alterações ao card, para manter a equipe ciente;
-2. Após gerado o documento de orçamento, anexe ao card e avise o tech lead.
-3. O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as alterações no planejamento do squad.
+2. Após gerado o documento de orçamento, anexe ao card e avise o Tech Lead.
+3. O card deve ser criado mesmo que o documento de alterações ainda não esteja concluído, de forma a manter as atividades no planejamento do squad.
 ##### **Fluxo Kanban**
-1. Enquanto o documento de alterações estiver sendo escrito: PD - Briefing;
-2. Após envio para validação do cliente: PD - Approval;
-3. Após validação do cliente: DEV - Tickets;
-4. Após enviar o documento para orçamento: PD - Approval;
+1. Enquanto o documento de alterações estiver sendo escrito: ```PD - Briefing```;
+2. Após envio para validação do cliente: ```PD - Approval``;
+3. Após validação do cliente: ```DEV - Tickets```;
+4. Após enviar o documento para orçamento: ```PD - Approval```.
 ##### **Aviso de abertura de card**
-Após aberto o card deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação das alterações solicitadas.
+Após aberto o card, deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação das alterações solicitadas.
 
 #### Entregas de Alterações e Correções
 Após o comunicado da equipe responsável de que a task foi finalizada, deve-se:
 1. Verificar se a correção/alteração foi realizada com sucesso, testando o fluxo de ponta a ponta;
 2. Caso algum comportamento não seja o esperado, o card deve voltar para a equipe de desenvolvimento para correção;
 3. Após validado, solicita-se a validação do cliente com a mensagem modelo:
-```text
+```
 Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brevemente). Poderiam verificar, por gentileza? Fico no aguardo.
 ```
 
 ## **6.Documentações**
 ### **Atas de Reunião**
-Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizando o relatório gerado pelo Read AI e formatada utilizando IA para se adequar ao modelo padrão.
+Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizando o relatório gerado pelo Read AI e formatada utilizando IA para se adequar ao modelo padrão. Após finalizada, ela será enviada via email para registro interno e dos clientes. 
 
 #### **ReadAI (ou gravação/análise de reuniões)**
 1. Todas as reuniões devem ser gravadas com o ReadAI
 2. A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
 3. Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
-4. Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e usar o ReadAI para melhorar comunicação e descrever melhor as tarefas, alterações e escrita da ata no modelo utilizando outras IA's generativas.
+4. Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e usar IA's generativas + anotações para formatar o documento no modelo padrão.
 
-#### **Modelo e Regras de escrita das atas: **
+#### **Modelo das atas: **
 
 [Regras - Ata de reunião - Laon Labs](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
 
