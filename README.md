@@ -102,7 +102,6 @@ Reunião com clientes para formalização e entrega final do desenvolvimento do 
 
 #### **6. Reuniões de pós-entrega (acompanhamento de produto e follow-up)**
 Reuniões pós-entrega são utilizadas para coletar bugs para correção, alterações solicitadas, sanar dúvidas que possam surgir durante o processo de uso ou definir novas fases do projeto. 
-##### **Instruções gerais**
 1. Após a reunião de entrega, deve-se marcar após 15 ou 20 dias, uma nova reunião para coleta de feedbacks, alterações ou bugs encontrados durante a [validação](#entrega-final-de-produto);
 2. Próximas reuniões são marcadas de acordo com a necessidade do cliente, caso necessário, averiguando-se sempre o volume de demandas semanais, pode-se definir uma reunião periódica semanal durante um determinado período, até que o volume das dúvidas e solicitações diminua. 
 
@@ -130,9 +129,11 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 São boas práticas no agendamento das reuniões:
 1. Sempre ter horário definido de início e fim, prorrogações e atrasos podem eventualmente ocorrer, mas não devem ser levados como regra;
 2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
-3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: ```text
+3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: 
+```text
  Bom dia/Boa tarde, pessoal\! Passando para confirmar a nossa reunião hoje às \_\_h.
- ```;
+ ```
+
 4. Não se deve marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
