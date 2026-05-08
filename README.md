@@ -3,17 +3,18 @@ O Key Account Manager é o responsável por garantir o sucesso do cliente e o al
 
 ## **Principais processos executados**
 Os principais processos gerenciados pelo KAM e descritos nessa documentação são:
-1. [Onboarding de Clientes](#1-onboarding-de-cliente)
-2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões)
-3. [Validações e Aprovações formais](#3-validações-e-aprovações)
-4. [Gestão de Demandas Pós-entrega](#4-gestão-de-demandas-pós-entrega)
-5. [Gerenciamento de Documentações](#5-documentações)
-6. [Coletas de contas e acessos](#6-coletas-de-informações)
+1. [Onboarding de Clientes](#1-onboarding-de-cliente);
+2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões);
+3. [Validações e Aprovações formais](#3-validações-e-aprovações);
+4. [Coletas de contas e acessos](#4-coletas-de-informações);
+5. [Gestão de Demandas Pós-entrega](#5-gestão-de-demandas-pós-entrega);
+6. [Gerenciamento de dcuemntações](#6documentações).
+
 
 ### **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se, também algumas regras gerais:
-1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação)
-2. [Cronograma operacional](#cronograma-operacional)
+1. [Diretrizes de comunicação](#6-diretrizes-de-comunicação);
+2. [Cronograma operacional](#7-cronograma-operacional).
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
@@ -26,16 +27,20 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 
 ## **1. Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
+
 ### **Identificação dos responsáveis**
 1. Identificar quem será o Key Account Manager responsável pelo cliente;
 2. Identificar quem será o responsável pelo projeto.
+
 ### **Criação do Grupo Oficial do projeto**
 1. Criar o grupo oficial de comunicação no WhatsApp;
 2. Padronização de nome: "Laon <> Nome do Projeto";
 3. Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
+
 ### **Mensagem de Boas Vindas e Agendamento de Kickoff**
 1. Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
 2. Deve-se agendar a reunião de [kickoff de produto](#kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência para a reunião.
+
 #### **Modelo de mensagem**:
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
@@ -52,8 +57,10 @@ Para uma boa organização de reuniões segue-se uma separação em [tipos](#tip
 
 ### **Tipos de Reuniões**
 Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto: 
+
 #### **1. Kickoff**
 Reunião inicial com clientes, equipe de Product Design e responsáveis para apresentação do fluxo de criação do projeto e definição de escopo inicial. Ao final da reunião devem-se ter estabelecidos alguns pontos:
+
 1. Definição de escopo macro do projeto: qual é o problema a ser resolvido e quais requisitos devem ser considerados?
 2. Modelo de negócio e monetização;
 3. Alinhamento de expectativas;
@@ -63,30 +70,38 @@ Reunião inicial com clientes, equipe de Product Design e responsáveis para apr
 Reuniões com clientes e equipe de Product Design com o obejtivo de definir escopos, funcionalidades, fluxos, regras de negócio e telas do sistema. 
 
 As reuniões devem ser marcadas semanalmente ou de acordo com o andamento do projeto e necessidade. Deve-se atentar para:
+
 1. Coleta de informações necessárias para o desenvolvimento dos protótipos, como regras de negócios, cálculos e valores específicos, identidade visual, etc;
 2. Bloqueios e ajustes de rotas no escopo inicial (exceto para projetos de escopos fechados);
 3. Sanar pendências da reunião anterior (Dúvidas);
 4. Deixar sempre definida a data das próximas reuniões.
 
 #### **3. Reunião final de projeto**
-Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a entrega dos protótipos, sanar dúvidas e coletar possíveis alterações. Após a apresentação das entregas, deve-se questionar o cliente sobre:
+Reuniões com clientes e equipe de Product Design com o obejtivo de formalizar a entrega dos protótipos, sanar dúvidas e coletar possíveis alterações.
+
+Após a apresentação das entregas, deve-se questionar o cliente sobre:
+
 1. Existência de CNPJ da empresa;
 2. Existência de Domínio e conta AWS para hospedagem do sistema;
 3. Coleta de acessos à softwares e/ou contas de terceiros que terão integrações com o sistema; 
-As informações poderão ser coletadas em [Reuniões de acompanhamento de desenvolvimento](#reuniões-de-acompanhamento-de-desenvolvimento) de acordo com a necessidade ou prazos definidos (eg: criação de conta AWS depende de CNPJ válido e aprovado);
+As informações poderão ser coletadas em [Reuniões de acompanhamento de desenvolvimento](#4-reuniões-de-acompanhamento-de-desenvolvimento) de acordo com a necessidade ou prazos definidos (eg: criação de conta AWS depende de CNPJ válido e aprovado);
 
-Veja a seção sobre coleta de [contas e acessos](#6coletas-de-informações).
+Veja a seção sobre coleta de [contas e acessos](#4coletas-de-informações).
+
+Após a reunião, deve-se seguir o protolocolo de coleta de [aprovação formal de protótipos](#entrega-final-dos-protótipos). 
     
 #### **4. Reuniões de acompanhamento de desenvolvimento**
 Reuniões com clientes para atualizações do desenvolvimento do projeto e coleta de informações necessárias. Durante as reuniões, deve-se atentar para:
+
 1. Atualizar os cliente quanto ao status dos projetos, informando as funcionalidades em desenvolvimemnto e a etapa em que cada projeto está (as informações devem ser coletadas em daily ou com o tech lead);
 2. Apresentar as próximas etapas e planejamento;
 3. Coletar itens pendentes de envio (acessos, informações, identidade visual, imagens, arquivos, etc).
 
-Veja a seção sobre coleta de [contas e acessos](#6coletas-de-informações).
+Veja a seção sobre coleta de [contas e acessos](#4coletas-de-informações).
 
 #### **5. Reunião de entrega final de produto**
 Reunião com clientes para formalização e entrega final do desenvolvimento do projeto, deve-se atentar para:
+
 ##### **Antes da reunião**
 1. Marcar a reunião de entrega do produto com no mínimo 2 semanas antes da data prevista de entrega final estipulada em contrato;
 2. Validar todos os fluxos para a apresentação com no mínimo 3 dias de antecedência da data da reunião de entrega;
@@ -102,15 +117,17 @@ Reunião com clientes para formalização e entrega final do desenvolvimento do 
 
 #### **6. Reuniões de pós-entrega (acompanhamento de produto e follow-up)**
 Reuniões pós-entrega são utilizadas para coletar bugs para correção, alterações solicitadas, sanar dúvidas que possam surgir durante o processo de uso ou definir novas fases do projeto. 
-1. Após a reunião de entrega, deve-se marcar após 15 ou 20 dias, uma nova reunião para coleta de feedbacks, alterações ou bugs encontrados durante a [validação](#entrega-final-de-produto);
+
+1. Após a reunião de entrega, deve-se marcar após 15 ou 20 dias, uma nova reunião para coleta de feedbacks, alterações ou bugs encontrados durante a [validação de produto](#entrega-final-de-produto);
 2. Próximas reuniões são marcadas de acordo com a necessidade do cliente, caso necessário, averiguando-se sempre o volume de demandas semanais, pode-se definir uma reunião periódica semanal durante um determinado período, até que o volume das dúvidas e solicitações diminua. 
 
 ### **Boas práticas para condução em reuniões:**
-Para que todas as reuniões ocorram conforme o esperado e siga o processo definido, observe as seguintes boas práticas:
+Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o processo definido, observe as seguintes boas práticas:
+
 1. Entrar 5 minutos antes para testar equipamentos como microfone e câmera;
 2. Manter sempre a câmera ligada durante as reuniões;
-3. Gravar todas as reuniões utilizando o [ReadAI](#8-readai-ou-gravaçãoanálise-de-reuniões);
-4. Anotar todos os pontos discutidos e levantados para conferência posterior em [ata de reunião];
+3. Gravar todas as reuniões utilizando o [ReadAI](#readai-ou-gravaçãoanálise-de-reuniões);
+4. Anotar pontos importantes discutidos e levantados para conferência posterior em [ata de reunião](#atas-de-reunião);
 5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
 6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
 7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
@@ -120,10 +137,10 @@ Para que tudo siga o processo definido, observe os seguintes pontos para o agend
 1. Definir objetivo claro para a reunião, baseando-se nos [tipos](#tipos-de-reuniões) descritos;
 2. Coletar os emails dos clientes e da equipe interna que participarão da reunião;
 3. Verificar disponibilidade da agenda com a equipe e o cliente;
-4. Canal de agendamento: Utilizar o google calendar para agendar reuniões;
+4. Canal de agendamento: Utilizar o Google Calendar para agendar reuniões;
 5. Agendar a reunião na agenda “Laon - Product Design” (Cor cinza);
-6. Seguir o padrão de nome: Reunião - Laon & Empresa (Assunto - quando necessário).
-7. Convidar apenas quem é necessário.
+6. Seguir o padrão de nome: Reunião - Laon & Nome do Projeto (Assunto - quando necessário).
+7. Convidar apenas quem é necessário para a reunião.
 
 #### **Boas práticas para agendamentos**
 São boas práticas no agendamento das reuniões:
@@ -131,34 +148,36 @@ São boas práticas no agendamento das reuniões:
 2. Sempre enviar 2 horários disponíveis na agenda, levando em consideração outras reuniões e horários passados para outros clientes;
 3. No dia marcado para a reunião, confirmar a presença do cliente, enviando uma mensagem no grupo do projeto, seguindo o seguinte modelo: 
 ```
-Bom dia/Boa tarde, pessoal! Passando para confirmar a nossa reunião hoje às \_\_h.
+Bom dia/Boa tarde, pessoal! Passando para confirmar a nossa reunião hoje às _h.
 ```
 
 4. Não se devem marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
-Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, afim de formalizar as entregas.
+Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, a fim de formalizar as entregas.
 
 ### **Entrega final dos protótipos**
 Após a [apresentação final dos protótipos](#3-reunião-final-de-projeto) e regras de negócio, bem como a correção de quaisquer pontos que tenham sido levantados nas últimas reuniões, deve-se enviar um email com todos os materiais do projeto em formato PDF para os clientes:
 #### **Formalização da aprovação por email**
 1. **Destinatários:** Email dos responsáveis pelo projeto, clientes, equipe da laon envolvida e ```dev@laon.com.br```;
-2. **Título do Email:**```Aprovação protótipos - (NOME DO PROJETO)```;
+2. **Título do Email:** ```Aprovação protótipos - (NOME DO PROJETO)```;
 3. **Corpo do email:**
-```Prezados, bom dia/boa tarde!
-
-    Encaminho em anexo os protótipos do sistema da plataforma NOME DO PROJETO, em formato PDF, juntamente com o link de regras do notion (Link das regras de negócio - Notion).
-
-    Solicitamos, por gentileza, que a validação e aprovação formal sejam realizadas em resposta a este e-mail, para que possamos dar sequência às próximas etapas do projeto e formalizar a entrega final.
-
-    Atenciosamente,  
-
-    NOME  
-    Key Account Manager
 ```
-4. Anexos: enviar os PDFs dos protótipos separados por painel.
+Prezados, bom dia/boa tarde!
+
+Encaminho em anexo os protótipos do sistema da plataforma NOME DO PROJETO, em formato PDF, juntamente com o link de regras do notion (Link das regras de negócio no Notion).
+
+Solicitamos, por gentileza, que a validação e aprovação formal sejam realizadas em resposta a este e-mail, para que possamos dar sequência às próximas etapas do projeto e formalizar a entrega final.
+
+Atenciosamente,  
+
+NOME  
+Key Account Manager
+```
+4. **Anexos:** enviar os PDFs dos protótipos separados por painel.
 
 #### **Regras gerais e Follow-up**
+Após o envio dos protótipos para validação:
 1. Validar aceite formal e por escrito ao email enviado;
 2. Caso necessário, deve-se cobrar os clientes via WhatsApp para que formalizem a aprovação dos protótipos via email seguindo o seguinte modelo:
 ```
@@ -179,8 +198,23 @@ Após a reunião de entrega final do desenvolvimento e coleta das devidas altera
 Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de validação do sistema, precisam de algum auxílio ou possuem alguma dúvida? Fico à disposição caso possa ajudar em alguma coisa.
 ```
 
-## **4. Gestão de Demandas pós entrega**
-Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para trata-lás segue-se o processo de gestão de demandas pós-entrega. 
+## **4.Coletas de Informações**
+Para que os projetos sejam executados, são necessárias alguns acessos e contas para a equipe realizar o deploy do projeto.
+
+#### **Domínio**
+PENDENTE
+#### **AWS**
+AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
+DOCUMENTO PENDENTE
+#### **Google Play Console (Develper)**
+Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
+DOCUMENTO PENDENTE
+#### **Apple Developer**
+Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias.
+DOCUEMTNO PENDENTE 
+
+## **5. Gestão de Demandas pós entrega**
+Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para tratá-las segue-se o processo de gestão de demandas pós-entrega: 
 
 ### **Bugs**
 Bugs são erros que se apresentam nas funcionalidades desenvolvidas, de forma que não funcionem como definido no escopo do projeto, como por exemplo, ação de resetar senha não funcionando ao logar, campos que deveriam estar preenchidos ou que deveriam ser editáveis e não o são, erros não tratados sendo mostrados no frontend final, etc.
@@ -292,7 +326,7 @@ Após o comunicado da equipe responsável de que a task foi finalizada, deve-se:
 Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brevemente). Poderiam verificar, por gentileza? Fico no aguardo.
 ```
 
-## **5.Documentações**
+## **6.Documentações**
 ### **Atas de Reunião**
 Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizando o relatório gerado pelo Read AI e formatada utilizando IA para se adequar ao modelo padrão.
 
@@ -326,7 +360,7 @@ Ao registrar decisões ou solicitações, a ata deve detalhar:
 2. **Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
 3. **Corpo:** 
 ```text
-Prezados, boa tarde!
+Prezados, boa tarde\!
 Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
           
 O documento contém uma descrição dos principais pontos discutidos.   
@@ -348,21 +382,6 @@ Modelo de documento de orçamento:
 3. Abrir um card em dev tickets para que o techlead realize o orçamento;
 4. Informar na daily do dia seguinte sobre a abertura do card;
 5. Revisar se o documento contém quantidade de horas, prazo, valor e estimativa de início das atividades;
-
-## **6.Coletas de Informações**
-Para que os projetos sejam executados, são necessárias alguns acessos e contas para a equipe realizar o deploy do projeto.
-
-#### **Domínio**
-PENDENTE
-#### **AWS**
-AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
-DOCUMENTO PENDENTE
-#### **Google Play Console (Develper)**
-Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
-DOCUMENTO PENDENTE
-#### **Apple Developer**
-Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias.
-DOCUEMTNO PENDENTE 
 
 ## **7. Diretrizes de Comunicação**
 1. Manter a comunicação apenas no canal dos squads, evitando conversas diretas com desenvolvedores e/ou Product Designers, apenas quando estritamente necessário;
