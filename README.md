@@ -202,21 +202,62 @@ Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de val
 Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta antecipada de acessos e a criação de contas institucionais. O KAM deve validar estes itens após a aprovação dos protótipos.
 
 #### **Domínio**
-PENDENTE
+O domínio é o endereço virtual do projeto na internet e é essencial para hospedar o sistema web, criar APIs e garantir que os usuários consigam acessar a plataforma.
+1. Questionar se o cliente já possui um domínio registrado;
+2. Se não possuir, orientar a compra em plataformas como Registro.br ou GoDaddy utilizando o CNPJ da empresa, é necessário que a Laon receba um acesso com permissões administrativas ou contato técnico (RegistroBr) para a configuração de registros DNS;
+
 #### **AWS**
-AWS: Conta necessária para a configuração do ambiente onde será realizado o deploy do projeto. É necessário que a empresa possua um CNPJ ativo para a criação da conta. O processo pode demorar, por isso é essencial verificar com o cliente no início do processo se já possuem CNPJ, caso não, orientar para criar, pois será necessário para conseguir a AWS; 
-DOCUMENTO PENDENTE
+AWS é a plataforma de serviços de computação em nuvem da Amazon. A conta é necessária para a configuração do ambiente onde será realizado o deploy do projeto. 
+1. É necessário que a empresa possua um CNPJ ativo para a criação da conta;
+2. Orientar a criação da conta. Informar que será necessário um cartão de crédito corporativo e que a aprovação pela AWS pode levar alguns dias;
+3. Com a conta criada, solicitar que o cliente crie um usuário IAM com permissões de "AdministratorAccess";
+4. Coletar o Access Key ID e o Secret Access Key e repassar de forma segura para a equipe técnica.
+
 #### **Google Play Console (Develper)**
-Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias. 
-DOCUMENTO PENDENTE
+Google Play Console é o painel oficial de controle do Google para desenvolvedores Android. Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. 
+1. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias;
+2. Exigir que a conta seja registrada sob o CNPJ da empresa (conta do tipo Organização), para evitar problemas de verificação de identidade.
+3. Solicitar a criação de uma conta de desenvolvedor do Google vinculada a um e-mail corporativo do cliente (taxa única de US$ 25);
+4. Orientar o cliente a acessar a aba "Usuários e permissões" no painel;
+5. Solicitar o envio de um convite para o e-mail da equipe de desenvolvimento com a permissão de "Administrador" ou "Gerente de versões". O email deve ser confirmado com o Tech Lead.
+
 #### **Apple Developer**
-Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias.
+Apple Developer é o programa oficial de desenvolvedores da Apple para o ecossistema iOS. Caso o projeto inclua o desenvolvimento de aplicativos iOS, será necessária a conta do Apple Developer para realizar o deploy do aplicativo nas lojas. 
+1. Verificar se o cliente possui o número D-U-N-S (padrão internacional de identificação de empresas). Se não possuir, orientar a solicitação gratuita (pode demorar até 30 dias).
+2. Com o D-U-N-S em mãos, orientar a criação da conta Apple Developer do tipo "Organization" (taxa anual de US$ 99). Não aceitar contas do tipo "Individual";
+3. Orientar o cliente a acessar o portal App Store Connect;
+4. Solicitar que envie um convite para o e-mail da equipe de desenvolvimento com a função de "Administrador" ou "App Manager".
+
 #### **Termos de Uso**
+O termos de uso é o contrato legal que estabelece as regras de utilização da plataforma entre a empresa e o usuário final. Ele protege o cliente legalmente, define responsabilidades de uso e é um critério obrigatório para a aprovação nas lojas de aplicativos.
+1. Informar ao cliente que este documento é obrigatório;
+2. Solicitar que a assessoria jurídica do cliente redija as regras específicas para o modelo de negócio do software;
+3. Coletar o documento finalizado em texto ou um link público para inserção no aplicativo.
+
 #### **Políticas de privacidade**
+As políticas de privacidade são estruturadas no documento que explica de forma transparente como os dados dos usuários serão coletados, armazenados e utilizados. Ele garante a conformidade com a LGPD e é um requisito bloqueante imposto pela Apple e pelo Google (o app é rejeitado sem ele).
+1. Reforçar a obrigatoriedade deste documento devido à LGPD;
+2. Solicitar à assessoria jurídica do cliente a redação do documento, detalhando os dados transacionados no app;
+3. Coletar um e-mail oficial de contato para exclusão de dados (ex: dpo@empresa.com.br) exigido nas lojas;
+4. Coletar o documento final para inserção no sistema e nos painéis de publicação.
+
 #### **Gateway de Pagamento**
+O Gateway de Pagamento é o sistema terceirizado responsável por processar as transações financeiras (cartão de crédito, Pix, boleto) dentro da plataforma. É o motor financeiro do projeto, permitindo a automação de cobranças, recebimentos e estornos com segurança.
+1. Definir junto ao cliente qual fornecedor será utilizado (ex: Stripe, Pagar.me, Mercado Pago);
+2. Orientar a criação da conta no nome e CNPJ da empresa, e a realização da validação bancária exigida pelo gateway;
+3. Coletar as "Chaves de Teste" (Sandbox API Keys) para a equipe iniciar as integrações;
+4. Coletar as "Chaves de Produção" (Live API Keys) para habilitar pagamentos reais.
+
 #### **Serviço de email**
+Serviço de email é uma infraestrutura dedicada ao envio de e-mails automatizados do sistema (e-mails transacionais). Garante que mensagens do sistema (recuperação de senha, confirmação de conta, recibos) cheguem à caixa de entrada do usuário sem cair no spam.
+1. Definir a ferramenta de disparos transacionais (ex: Amazon SES, SendGrid).
+2. Orientar a criação da conta e vinculação do método de pagamento.
+3. Coletar as credenciais de API com a equipe do cliente.
+
 #### **Contato de Suporte**
-DOCUEMTNO PENDENTE 
+São os canais oficiais pelos quais o usuário final poderá tirar dúvidas ou reportar problemas sobre a plataforma. É um campo obrigatório no preenchimento das lojas de aplicativos e vital para a experiência e retenção dos usuários.
+1. Definir com o cliente quais serão os canais oficiais (E-mail, WhatsApp, Link de Helpdesk).
+2. Validar se os canais estão ativos e sendo operados.
 
 ## **5. Gestão de Demandas pós entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas à problemas de funcionalidades ou alterações no sistema. Para tratá-las segue-se o processo de gestão de demandas pós-entrega: 
