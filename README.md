@@ -8,7 +8,7 @@ Os principais processos gerenciados pelo KAM e descritos nessa documentação s�
 3. [Validações e Aprovações formais](#3-validações-e-aprovações);
 4. [Coletas de contas e acessos](#4-coletas-de-informações);
 5. [Gestão de Demandas Pós-entrega](#5-gestão-de-demandas-pós-entrega);
-6. [Gerenciamento de dcuemntações](#6documentações).
+6. [Gerenciamento de documentações](#6documentações).
 
 
 ### **Regras gerais**
