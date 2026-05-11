@@ -13,8 +13,8 @@ Os principais processos gerenciados pelo KAM e descritos nessa documentação s�
 
 ### **Regras gerais**
 Para uma melhor execução do trabalho do KAM seguem-se, também algumas regras gerais:
-1. [Diretrizes de comunicação](#6-diretrizes-de-comunicação);
-2. [Cronograma operacional](#7-cronograma-operacional).
+1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação);
+2. [Cronograma operacional](#8-cronograma-operacional).
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
