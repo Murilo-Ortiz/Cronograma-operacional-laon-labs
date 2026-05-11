@@ -199,7 +199,7 @@ Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de val
 ```
 
 ## **4.Coletas de Informações**
-Para que os projetos sejam executados, são necessárias alguns acessos e contas para a equipe realizar o deploy do projeto.
+Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta antecipada de acessos e a criação de contas institucionais. O KAM deve validar estes itens após a aprovação dos protótipos.
 
 #### **Domínio**
 PENDENTE
@@ -211,6 +211,11 @@ Google Play Console: Caso o projeto inclua o desenvolvimento de aplicativos Andr
 DOCUMENTO PENDENTE
 #### **Apple Developer**
 Apple Developer:Caso o projeto inclua o desenvolvimento de aplicativos IOS, será necessária a conta do Apple Developer, para realizar o deploy do aplicativo nas lojas. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias.
+#### **Termos de Uso**
+#### **Políticas de privacidade**
+#### **Gateway de Pagamento**
+#### **Serviço de email**
+#### **Contato de Suporte**
 DOCUEMTNO PENDENTE 
 
 ## **5. Gestão de Demandas pós entrega**
@@ -341,29 +346,29 @@ Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizan
 3. Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
 4. Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e usar IA's generativas + anotações para formatar o documento no modelo padrão.
 
-#### **Modelo das atas: **
+#### **Modelo das atas:**
 
 [Regras - Ata de reunião - Laon Labs](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
 
 1. As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
 2. Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
 
-#### **Detalhamento Técnico: **
+#### **Detalhamento Técnico:**
 
 Ao registrar decisões ou solicitações, a ata deve detalhar:
 
-1. **Caminho**: Definir a tela ou local exato da alteração.
-2. **Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
-3. **Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
-4. **Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
-5. **Limitações:** O que pode falhar e quais as exceções da regra de negócio;
-6. **Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
+1.**Caminho**: Definir a tela ou local exato da alteração.
+2.**Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
+3.**Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
+4.**Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
+5.**Limitações:** O que pode falhar e quais as exceções da regra de negócio;
+6.**Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
 
 #### **Modelo de email:**
 
-1. **Destinatários:** (Responsáveis, techlead e o email: ```dev@laon.com.br```);
-2. **Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
-3. **Corpo:** 
+1.**Destinatários:** (Responsáveis, techlead e o email: ```dev@laon.com.br```);
+2.**Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
+3.**Corpo:** 
 ```text
 Prezados, boa tarde\!
 Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
@@ -376,7 +381,7 @@ Atenciosamente,
 Murilo Schreiner  
  Key Account Manager
  ```
- 4. **Anexos:** Anexar a ata em formato PDF;
+ 4.**Anexos:** Anexar a ata em formato PDF;
 
 ### **Orçamentos**
 Modelo de documento de orçamento:   
