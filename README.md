@@ -6,7 +6,7 @@ Os principais processos gerenciados pelo KAM e descritos nessa documentação s�
 1. [Onboarding de Clientes](#1-onboarding-de-cliente);
 2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões);
 3. [Validações e Aprovações formais](#3-validações-e-aprovações);
-4. [Coletas de contas e acessos](#4-coletas-de-informações);
+4. [Coletas de contas e acessos](#4coletas-de-informações);
 5. [Gestão de Demandas Pós-entrega](#5-gestão-de-demandas-pós-entrega);
 6. [Gerenciamento de documentações](#6documentações).
 
