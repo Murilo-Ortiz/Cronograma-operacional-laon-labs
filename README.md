@@ -440,6 +440,7 @@ Modelo de documento de orçamento:
 3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Key Account Manager Laon```.
 
 ## **8. Cronograma Operacional**
+Para monitorar melhor as atividades a serem realizadas pelo KAM durante o decorrer da semana, segue-se uma estrutura como base:
 ### **Segunda-feira:**
 1. Atualizar os status de projetos ativos de acordo com a demanda;
 2. Validar reuniões já marcadas para a semana;
@@ -454,8 +455,9 @@ Modelo de documento de orçamento:
 5. Escritas de Documentações:
 
 ### **Atualização de projetos**
+Para uma boa atualização dos projetos dos clientes, segue-se um checklist de informações a serem passadas ou requisitadas:
 #### Checklist:
-1. Status atual (em andamento / bloqueado / entregue)
+1. Status atual (em andamento / bloqueado / entregue);
 2. Enviar as fases do projeto;
 3. Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
 4. Próximos passos;
