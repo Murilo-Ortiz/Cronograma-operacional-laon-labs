@@ -221,12 +221,16 @@ Google Play Console é o painel oficial de controle do Google para desenvolvedor
 4. Orientar o cliente a acessar a aba "Usuários e permissões" no painel;
 5. Solicitar o envio de um convite para o e-mail da equipe de desenvolvimento com a permissão de "Administrador" ou "Gerente de versões". O email deve ser confirmado com o Tech Lead.
 
+Tutorial de criação de conta Google Play Console: [Link](https://drive.google.com/file/d/1XpnBK-yDOpIJO2NGyec5-hJVF2Yqkvug/view?usp=sharing).
+
 #### **Apple Developer**
 Apple Developer é o programa oficial de desenvolvedores da Apple para o ecossistema iOS. Caso o projeto inclua o desenvolvimento de aplicativos iOS, será necessária a conta do Apple Developer para realizar o deploy do aplicativo nas lojas. 
 1. Verificar se o cliente possui o número D-U-N-S (padrão internacional de identificação de empresas). Se não possuir, orientar a solicitação gratuita (pode demorar até 30 dias).
 2. Com o D-U-N-S em mãos, orientar a criação da conta Apple Developer do tipo "Organization" (taxa anual de US$ 99). Não aceitar contas do tipo "Individual";
 3. Orientar o cliente a acessar o portal App Store Connect;
 4. Solicitar que envie um convite para o e-mail da equipe de desenvolvimento com a função de "Administrador" ou "App Manager".
+
+Tutorial de criação de conta Apple Developer: [Link](https://drive.google.com/file/d/1n3ty4-_7l1HX4rswpRhk07MCWZcAV9cp/view?usp=sharing).
 
 #### **Termos de Uso**
 Os termos de uso são o contrato legal que estabelece as regras de utilização da plataforma entre a empresa e o usuário final. Ele protege o cliente legalmente, define responsabilidades de uso e é um critério obrigatório para a aprovação nas lojas de aplicativos.
