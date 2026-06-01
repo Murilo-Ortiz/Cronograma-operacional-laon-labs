@@ -131,6 +131,7 @@ Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o
 5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
 6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
 7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
+8. Caso o cliente não compareça na reunião, no horário agendado, enviar mensagem após 5 minutos, cobrando a presença. Caso não tenha retorno, cobrar novamente após 10 e 20 minutos. Após esse horário, informar o cliente que a reunião precisará ser remarcada e trazer os novos horários disponíveis. 
 
 ### **Agendamentos de reuniões**
 Para que tudo siga o processo definido, observe os seguintes pontos para o agendamento das reuniões:
@@ -174,7 +175,7 @@ Atenciosamente,
 NOME  
 Key Account Manager
 ```
-4. **Anexos:** enviar os PDFs dos protótipos separados por painel.
+4. **Anexos:** enviar os PDFs dos protótipos separados por painel e o link do Notion para validação das regras de negócios definidos.
 
 #### **Regras gerais e Follow-up**
 Após o envio dos protótipos para validação:
@@ -215,7 +216,7 @@ AWS é a plataforma de serviços de computação em nuvem da Amazon. A conta é 
 
 #### **Google Play Console (Developer)**
 Google Play Console é o painel oficial de controle do Google para desenvolvedores Android. Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. 
-1. A criação demanda a existência de CNPJ ativo da empresa e pode demorar, por isso é essencial coletar o acesso do desenvolvedor com as permissões necessárias;
+1. A criação demanda de telefone e email para recebimento de código de verificação, cartão internacional para pagamento, website intitucional da empresa, D-U-N-S Number e documentos que comprovem a existência e a autorização do criador da conta de assinar documentos em nome da mesma;
 2. Exigir que a conta seja registrada sob o CNPJ da empresa (conta do tipo Organização), para evitar problemas de verificação de identidade.
 3. Solicitar a criação de uma conta de desenvolvedor do Google vinculada a um e-mail corporativo do cliente (taxa única de US$ 25);
 4. Orientar o cliente a acessar a aba "Usuários e permissões" no painel;
@@ -333,9 +334,10 @@ Bom dia/Boa tarde,pessoal! Segue o documento com a descrição das alterações 
 4. Após aprovado pelo cliente, avisar o tech lead para revisão.
 
 #### **3. Documento de orçamento**
-1. Após aprovado pelo cliente, e indicado pelo Tech Lead que será necessário orçamento para as alterações deve-se criar o documento seguindo o modelo descrito na seção [Orçamento](#orçamentos);
-2. Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente;
-3. Email deve conter uma breve descrição dos pontos que constam no documento, datas e prazos e cobrar a formalização de aprovação da proposta via email.
+1. Após aprovado pelo cliente, deve-se informar o Tech Lead e coletar com o mesmo se haverá a necessidade de orçamento para as alterações solicitadas;
+2. Caso as alterações não precisem de orçamento, elas seguem, dentro do prazo definido pelo Tech Lead, para desenvolvimento. Caso seja necessário orçamento para as alterações, deve-se criar o documento seguindo o modelo descrito na seção [Orçamento](#orçamentos);
+3. Após receber o orçamento finalizado da equipe responsável, enviar email para aprovação do cliente;
+4. Email deve conter uma breve descrição dos pontos que constam no documento, datas e prazos e cobrar a formalização de aprovação da proposta via email.
 ##### **Modelo de email**
 1. Destinatários: ```Responsáveis, tech lead e o email: dev@laon.com.br```
 2. Título: ```Proposta de alterações - Nome do projeto```
@@ -393,7 +395,7 @@ Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizan
 
 #### **Modelo das atas:**
 
-[Regras - Ata de reunião - Laon Labs](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
+[Regras - Ata de reunião - Laon ](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
 
 1. As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
 2. Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
@@ -412,7 +414,7 @@ Ao registrar decisões ou solicitações, a ata deve detalhar:
 #### **Modelo de email:**
 
 1.**Destinatários:** (Responsáveis, tech lead e o email: ```dev@laon.com.br```);
-2.**Título:** Ata de Reunião - Laon Labs & (Nome do projeto) - DD/MM/AAAA;
+2.**Título:** Ata de Reunião - Laon  & (Nome do projeto) - DD/MM/AAAA;
 3.**Corpo:** 
 ```text
 Prezados, boa tarde!
@@ -445,18 +447,16 @@ Modelo de documento de orçamento:
 
 ## **8. Cronograma Operacional**
 Para monitorar melhor as atividades a serem realizadas pelo KAM durante o decorrer da semana, segue-se uma estrutura como base:
-### **Segunda-feira:**
+
 1. Atualizar os status de projetos ativos de acordo com a demanda;
 2. Validar reuniões já marcadas para a semana;
 3. Agendar novas reuniões necessárias;
-4. Priorizar demandas da semana.
-
-### **Terça a sexta:**
-1. Acompanhamento de reuniões com clientes;
-2. Participar nas dailies;
-3. Acompanhamento de projetos;
-4. Cobranças e follow-ups;
-5. Escritas de Documentações:
+4. Priorizar demandas da semana;
+5. Acompanhamento de reuniões com clientes;
+6. Participar nas dailies;
+7. Acompanhamento de projetos;
+8. Cobranças e follow-ups;
+9. Escritas de Documentações:
 
 ### **Atualização de projetos**
 Para uma boa atualização dos projetos dos clientes, segue-se um checklist de informações a serem passadas ou requisitadas:
