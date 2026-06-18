@@ -1,41 +1,43 @@
-# **Key Account Manager (KAM)**
-O Key Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação, gerenciando o onboarding, o acompanhamento de projetos, a priorização de demandas e a remoção de bloqueios para garantir entregas eficientes e de qualidade.
+# **Account Manager (AM)**
+O Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação, gerenciando o onboarding, o acompanhamento de projetos, a priorização de demandas e a remoção de bloqueios para garantir entregas eficientes e de qualidade.
 
 ## **Principais processos executados**
-Os principais processos gerenciados pelo KAM e descritos nessa documentação são:
-1. [Onboarding de Clientes](#1-onboarding-de-cliente);
-2. [Organização e Condução de Reuniões](#2-organização-e-condução-de-reuniões);
-3. [Validações e Aprovações formais](#3-validações-e-aprovações);
-4. [Coletas de contas e acessos](#4-coletas-de-informações);
-5. [Gestão de Demandas Pós-entrega](#5-gestão-de-demandas-pós-entrega);
-6. [Gerenciamento de documentações](#6-documentações).
+Os principais processos gerenciados pelo AM e descritos nessa documentação são:
+1. Onboarding de Clientes;
+2. Organização e Condução de Reuniões;
+3. Validações e Aprovações formais;
+4. Coletas de contas e acessos;
+5. Gestão de Demandas Pós-entrega;
+6. Gerenciamento de documentações;
+7. Avaliações e controle de qualidade.
 
 
 ### **Regras gerais**
-Para uma melhor execução do trabalho do KAM seguem-se, também algumas regras gerais:
-1. [Diretrizes de comunicação](#7-diretrizes-de-comunicação);
-2. [Cronograma operacional](#8-cronograma-operacional).
+Para uma melhor execução do trabalho do AM seguem-se, também algumas regras gerais:
+1. Diretrizes de comunicação;
+2. Cronograma operacional;
+3. AM's Quick Start. 
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
-1. **Onboarding e kickoff**;
-2. **Prototipação e definição das regras de negócio**;
-3. **Entrega e Validação dos protótipos**;
-4. **Desenvolvimento e codificações do sistema**;
-5. **Entrega e validação do sistema**;
-6. **Acompanhamento pós-entrega e Follow-up**.
+1. **Onboarding e kickoff**: primeiro contato com o cliente, onde será apresentado o fluxo de desenvolvimento da Laon, bem como coletadas as primeiras informações sobre o negócio e o produto a ser desenvolvido;
+2. **Prototipação e definição das regras de negócio**: etapa onde serão construídos e apresentados o userflow, protótipos e regras de negócio do sistema;
+3. **Entrega e Validação dos protótipos**: etapa, após a prototipação do sistema, onde o cliente deve validar todos os fluxos e regras criados, pré início de desenvolvimento;
+4. **Desenvolvimento e codificações do sistema**: etapa onde o projeto estará sendo desenvolvido, nessa etapa, o AM irá coletar toda e qualquer informação/arquivo que seja necessária para o produto;
+5. **Entrega e validação do sistema**: etapa, após o desenvovimento, onde será realizada uma entrega, apresentação e validação de todos os fluxos desenvolvidos. O cliente deverá utilizar o sistema por determinado tempo, para que possa validar a usabilidade e retornar com ajustes ou alterações a serem realizadas;
+6. **Acompanhamento pós-entrega e Follow-up**: após a entrega, alterações e bugs devem ser coletados e repassados para a equipe técnica.
 
 ## **1. Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
 
 ### **Identificação dos responsáveis**
-1. Identificar quem será o Key Account Manager responsável pelo cliente;
+1. Identificar quem será o Account Manager responsável pelo cliente;
 2. Identificar quem será o responsável pelo projeto.
 
 ### **Criação do Grupo Oficial do projeto**
 1. Criar o grupo oficial de comunicação no WhatsApp;
 2. Padronização de nome: "Laon <> Nome do Projeto";
-3. Integrantes: KAM do projeto, cliente(s) e responsável(s) internos.
+3. Integrantes: AM do projeto, cliente(s) e responsável(s) internos.
 
 ### **Mensagem de Boas Vindas e Agendamento de Kickoff**
 1. Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
@@ -45,7 +47,7 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
  ```text
  Bom dia/Boa tarde, pessoal! Tudo bem? 
  
- Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Key Account Manager de vocês e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
+ Sejam muito bem-vindos à Laon! Meu nome é Murilo, serei o Account Manager de vocês e estarei à frente da comunicação do projeto com vocês e com a nossa equipe. 
  
  Este é o grupo oficial do projeto, por aqui, iremos manter todas as comunicações relacionadas ao projeto, com exceção das aprovações formais que serão via email. 
 
@@ -173,7 +175,7 @@ Solicitamos, por gentileza, que a validação e aprovação formal sejam realiza
 Atenciosamente,  
 
 NOME  
-Key Account Manager
+Account Manager
 ```
 4. **Anexos:** enviar os PDFs dos protótipos separados por painel e o link do Notion para validação das regras de negócios definidos.
 
@@ -200,12 +202,20 @@ Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de val
 ```
 
 ## **4. Coletas de Informações**
-Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta antecipada de acessos e a criação de contas institucionais. O KAM deve validar estes itens após a aprovação dos protótipos.
+Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta antecipada de acessos e a criação de contas institucionais. O AM deve validar estes itens após a aprovação dos protótipos.
 
 #### **Domínio**
 O domínio é o endereço virtual do projeto na internet e é essencial para hospedar o sistema web, criar APIs e garantir que os usuários consigam acessar a plataforma.
 1. Questionar se o cliente já possui um domínio registrado;
-2. Se não possuir, orientar a compra em plataformas como Registro.br ou GoDaddy utilizando o CNPJ da empresa, é necessário que a Laon receba um acesso com permissões administrativas ou contato técnico (RegistroBr) para a configuração de registros DNS;
+2. Se não possuir, orientar a compra em plataformas como Registro.br ou GoDaddy utilizando o CNPJ da empresa;
+3. Após adquirido o domínio, a equipe Laon precisará de acesso à tabela de DNS do domínio, para poder realizar os apontamentos necessários.
+
+#### **Tabela de DNS**
+A tabela de DNS guarda os registros que direcionam o domínio para os servidores corretos. O acesso a essa tabela é indispensável para que a equipe técnica realize os apontamentos necessários para homologação, APIs, chaves de e-mail e publicação do sistema.
+1. Identificar onde o domínio do cliente está hospedado (ex: Registro.br, GoDaddy, Cloudflare, HostGator);
+2. Orientar o cliente a fornecer o acesso direto à plataforma de hospedagem ou a convidar o e-mail da equipe técnica como administrador do painel de DNS;
+3. Caso o cliente prefira não fornecer o acesso direto por questões de segurança, alinhar com o Tech Lead a lista de registros necessários (entradas do tipo A, CNAME, TXT ou MX) e encaminhá-la ao cliente para que a própria equipe dele realize a configuração;
+4. Validar com a equipe técnica se os apontamentos propagaram corretamente.
 
 #### **AWS**
 AWS é a plataforma de serviços de computação em nuvem da Amazon. A conta é necessária para a configuração do ambiente onde será realizado o deploy do projeto. 
@@ -213,6 +223,8 @@ AWS é a plataforma de serviços de computação em nuvem da Amazon. A conta é 
 2. Orientar a criação da conta. Informar que será necessário um cartão de crédito corporativo e que a aprovação pela AWS pode levar alguns dias;
 3. Com a conta criada, solicitar que o cliente crie um usuário IAM com permissões de "AdministratorAccess";
 4. Coletar o Access Key ID e o Secret Access Key e repassar de forma segura para a equipe técnica.
+
+Tutorial de criação de conta AWS: [Link](https://drive.google.com/file/d/1mRItGxjCpg0ZcixkwfUMYvVkh1UkLFyS/view?usp=drive_link).
 
 #### **Google Play Console (Developer)**
 Google Play Console é o painel oficial de controle do Google para desenvolvedores Android. Caso o projeto inclua o desenvolvimento de aplicativos Android, será necessária a conta do Google Play Console, para realizar o deploy do aplicativo nas lojas. 
@@ -238,6 +250,14 @@ Os termos de uso são o contrato legal que estabelece as regras de utilização 
 1. Informar ao cliente que este documento é obrigatório;
 2. Solicitar que a assessoria jurídica do cliente redija as regras específicas para o modelo de negócio do software;
 3. Coletar o documento finalizado em texto ou um link público para inserção no aplicativo.
+
+#### **Manual de Marca**
+O Manual de Marca (Brandbook) e os ativos de identidade visual são as diretrizes de design que guiam a interface do sistema. Eles garantem que o software seja desenvolvido em total conformidade com a identidade corporativa do cliente. Devem ser coletados:
+1. Manual da Marca: Documento em PDF com as regras de aplicação do logo, paleta de cores (códigos HEX ou RGB) e tipografia oficial (fontes);
+2. Logotipo: Arquivos do logo em alta resolução, preferencialmente em formato vetorizado (.AI, .EPS ou .SVG) e com fundo transparente (.PNG);
+3. Ícones e Elementos: Versão simplificada do logo para aplicação como Favicon (ícone da aba do navegador) e App Icon (ícone para as lojas de aplicativos);
+ 
+4. Casos de ausência de Manual de Marca: Se o cliente possuir apenas o logotipo solto e nenhuma diretriz definida, o AM deve alinhar com a equipe de Product Design e coletar com o cliente as preferências macro (ex: "preferência por tons azuis e estilo minimalista") para que o time técnico defina uma paleta funcional para as telas;
 
 #### **Políticas de privacidade**
 As políticas de privacidade são estruturadas no documento que explica de forma transparente como os dados dos usuários serão coletados, armazenados e utilizados. Ele garante a conformidade com a LGPD e é um requisito bloqueante imposto pela Apple e pelo Google (o app é rejeitado sem ele).
@@ -350,7 +370,7 @@ Ficamos no aguardo da aprovação para darmos início. A confirmação pode ser 
 Qualquer dúvida, estamos à disposição.
 Atenciosamente,  
 Murilo Schreiner  
-Key Account Manager
+Account Manager
 ```
 ##### **Após envio de email**
 1. Cobrar retorno do cliente até que aprove ou negue o orçamento enviado via email;
@@ -426,7 +446,7 @@ Fico à disposição para qualquer dúvida ou esclarecimento.
  
 Atenciosamente,  
 Murilo Schreiner  
- Key Account Manager
+ Account Manager
  ```
  4.**Anexos:** Anexar a ata em formato PDF;
 
@@ -443,10 +463,10 @@ Modelo de documento de orçamento:
 ## **7. Diretrizes de Comunicação**
 1. Manter a comunicação apenas no canal dos squads, evitando conversas diretas com desenvolvedores e/ou Product Designers, apenas quando estritamente necessário;
 2. Manter as comunicações com os clientes sempre nos grupos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
-3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Key Account Manager Laon```.
+3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```.
 
 ## **8. Cronograma Operacional**
-Para monitorar melhor as atividades a serem realizadas pelo KAM durante o decorrer da semana, segue-se uma estrutura como base:
+Para monitorar melhor as atividades a serem realizadas pelo AM durante o decorrer da semana, segue-se uma estrutura como base:
 
 1. Atualizar os status de projetos ativos de acordo com a demanda;
 2. Validar reuniões já marcadas para a semana;
