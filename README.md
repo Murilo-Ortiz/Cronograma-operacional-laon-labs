@@ -499,7 +499,8 @@ Desde já, agradeço pelo tempo.
 ## **8. Diretrizes de Comunicação**
 1. Manter a comunicação apenas no canal dos squads, evitando conversas diretas com desenvolvedores e/ou Product Designers, apenas quando estritamente necessário;
 2. Manter as comunicações com os clientes sempre nos grupos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
-3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```.
+3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
+4. Utilizar o email institucional para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail).
 
 ## **9. Cronograma Operacional**
 Para monitorar melhor as atividades a serem realizadas pelo AM durante o decorrer da semana, segue-se uma estrutura como base:
@@ -512,7 +513,8 @@ Para monitorar melhor as atividades a serem realizadas pelo AM durante o decorre
 6. Participar nas dailies;
 7. Acompanhamento de projetos;
 8. Cobranças e follow-ups;
-9. Escritas de Documentações:
+9. Verificar emails ao menos 3x ao dia;
+10. Escritas de Documentações.
 
 ### **9.1 Atualização de projetos**
 Para uma boa atualização dos projetos dos clientes, segue-se um checklist de informações a serem passadas ou requisitadas:
@@ -525,4 +527,8 @@ Para uma boa atualização dos projetos dos clientes, segue-se um checklist de i
 6. Checklist de solicitações pendentes de envio por parte do cliente, como contas, documentos e informações relevantes para o desenvolvimento do projeto.
 
 ## **10. AM's Quick Start**
-Para novos AMs, segue um passo a passo de quais informações, acessos e ferramentas são necessárias inicialmente
+Para novos AMs, segue um passo a passo de quais informações, acessos e ferramentas são necessárias inicialmente para a boa execução do cargo:
+1. Aquisição do número de whatsapp do AM e configuração de nome e foto de perfil;
+2. Acesso à agenda do Google, de Account Manager;
+3. Acesso à pasta de Produtos do Google Drive;
+4. Acesso ao canal e kanban do squad ao qual o AM foi designado. 
