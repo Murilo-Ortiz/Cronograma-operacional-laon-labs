@@ -41,7 +41,7 @@ O onboarding é o primeiro contato oficial e define o tom da organização e com
 
 ### **1.3 Mensagem de Boas Vindas e Agendamento de Kickoff**
 1. Após a criação do grupo com o cliente, enviar uma mensagem de boas vindas padronizada;
-2. Deve-se agendar a reunião de [kickoff de produto](#1-kickoff) com a equipe, garantindo no mínimo 48 horas de antecedência para a reunião.
+2. Deve-se agendar a reunião de kickoff de produto com a equipe, garantindo no mínimo 48 horas de antecedência para a reunião.
 
 #### **1.3.1 Modelo de mensagem**:
  ```text
@@ -55,7 +55,7 @@ Para seguirmos nesse processo de onboarding, gostaria de marcar uma reunião de 
  ```
 
 ## **2. Organização e Condução de Reuniões**
-Para uma boa organização de reuniões segue-se uma separação em [tipos](#tipos-de-reuniões), com processos definidos para seus [agendamentos](#agendamentos-de-reuniões) e [conduções](#boas-práticas-para-condução-em-reuniões).
+Para uma boa organização de reuniões segue-se uma separação em tipos, com processos definidos para seus agendamentos e conduções.
 
 ### **2.1 Tipos de Reuniões**
 Os seguintes tipos de reuniões são definidos de acordo com o estágio de desenvolvimento do projeto: 
