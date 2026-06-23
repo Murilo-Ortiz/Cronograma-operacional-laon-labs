@@ -284,6 +284,16 @@ São os canais oficiais pelos quais o usuário final poderá tirar dúvidas ou r
 1. Definir com o cliente quais serão os canais oficiais (E-mail, WhatsApp, Link de Helpdesk).
 2. Validar se os canais estão ativos e sendo operados.
 
+#### **4.12 Login Social do Facebook**
+O Facebook Login é a integração que permite aos usuários autenticarem-se no sistema ou aplicativo utilizando suas contas da rede social. A configuração do app junto à Meta é indispensável para autorizar esse fluxo de login.
+1. Orientar o cliente a possuir uma conta ativa no Facebook. O Business Manager (BM) não é obrigatório para a fase de testes (sandbox), mas a criação de uma BM para o projeto será estritamente necessária para o funcionamento em ambiente de produção;
+2. Instruir o cliente a acessar [developers.facebook.com](https://developers.facebook.com), realizar o login e entrar na seção "Meus Apps" para clicar em "Criar aplicativo";
+4. Caso o cliente possua um portfólio de empresa, ele deve vinculá-lo;
+5. Solicitar que o cliente e insira o Facebook ID ou nome de usuário do responsável da Laon e vincule-o como administrador do app;
+6. Validar com a equipe técnica se o acesso administrativo foi concedido corretamente assim que o cliente confirmar a conclusão.
+
+Tutorial de criação de APP e login social - Facebook: [Link](https://drive.google.com/file/d/1yKhp_5QRj6eZbSUfS1O3QSxw5MvRWo4A/view?usp=drive_link)[cite: 1].
+
 ## **5. Gestão de Demandas pós-entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas a problemas de funcionalidades ou alterações no sistema. Para tratá-las segue-se o processo de gestão de demandas pós-entrega: 
 
