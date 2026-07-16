@@ -157,6 +157,10 @@ Bom dia/Boa tarde, pessoal! Passando para confirmar a nossa reunião hoje às _h
 4. Não se devem marcar reuniões seguidas uma de outra, manter sempre um intervalo de pelo menos 1h entre reuniões para evitar imprevistos e deve-se tentar manter apenas uma reunião por turno (Manhã / Tarde);
 
 ## **3. Validações e Aprovações**
+Os processos de validação e entrega são partes essenciais do desenvolvimento dos produtos. As reuniões de entrega são utilizadas para apresentar os principais fluxos do produto, regras de negócio e validar o funcionamento dos sistemas. Elas devem ocorrer para garantir a qualidade das entregas.
+
+Caso o cliente recuse participar de qualquer etapa de validação descrita, deve-se reforçar a necessidade de realizá-las, uma vez que são procedimentos obrigatórios adotados pela Laon para o sucesso do projeto.
+
 Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se solicitar aprovação do cliente, a fim de formalizar as entregas.
 
 ### **3.1 Entrega final dos protótipos**
@@ -400,7 +404,8 @@ O card de alterações deve ser aberto junto com o início da descrição das al
 1. Enquanto o documento de alterações estiver sendo escrito: ```PD - Briefing```;
 2. Após envio para validação do cliente: ```PD - Approval```;
 3. Após validação do cliente: ```DEV - Tickets```;
-4. Após enviar o documento para orçamento: ```PD - Approval```.
+4. Após enviar o documento para orçamento: ```PD - Approval```;
+5. O AM é autorizado a mover os cards nas colunas, mas deve-se avisar o Tech Lead após.
 ##### **5.2.4.4 Aviso de abertura de card**
 Após aberto o card, deve-se sempre informar na daily do próximo dia, informando o tech lead e realizando uma breve explicação das alterações solicitadas.
 
@@ -472,8 +477,8 @@ Modelo de documento de orçamento:
 
 ## **7. Avaliações e controle de qualidade**
 Uma das etapas importantes durante o andamento das atividades de AM, é a coleta de avaliações e controle de qualidade. Nessa etapa, o AM deve coletar informações e feedbacks relacionados ao processo de desenvolvimento Laon, bem como da sua atuação como Account Manager durante o desenvolvimento do projeto. 
-### **7.1 Laon - Product Design - NPS**
-1. Link do formulário: [Link](https://forms.gle/1Ebf8zbvtM72damDA);
+### **7.1 Laon - NPS**
+1. Link do formulário: [[Link](https://forms.gle/1Ebf8zbvtM72damDA)](https://forms.gle/ERJpKZVPZRRruWTQ8);
 2. Mensagem para enviar junto com o formulário:
    ´´´text
 Bom dia, pessoal! Tudo bem?
@@ -483,24 +488,7 @@ Estamos realizando uma avaliação sobre a experiência dos nossos clientes com 
 
 Preparamos um formulário rápido (leva só alguns minutos) e sua resposta vai contribuir diretamente para a melhoria dos nossos processos e da qualidade das nossas entregas. Se puder nos ajudar, ficaremos muito gratos. Podem responder todos os envolvidos no processo de produtos.
 
-Pesquisa: https://forms.gle/1Ebf8zbvtM72damDA
-
-Desde já, agradeço pelo tempo.
-   ´´´
-3. Reforçar a resposta do formulário, caso não tenha sido respondido. 
-
-### **7.2 Laon - Account Manager - NPS**
-1. Link do formulário: [Link]([https://forms.gle/1Ebf8zbvtM72damDA](https://docs.google.com/forms/d/1ch7Mgjy1_jFqMN3ZfDCHjG7WDoVWkgmsyrV3LbNEk6Q/edit));
-2. Mensagem para enviar junto com o formulário:
-   ´´´text
-Bom dia, pessoal! Tudo bem?
-Estou entrando em contato para pedir ajuda em um ponto muito importante para nós.
-
-Estamos realizando uma avaliação sobre a experiência dos nossos clientes com o Account Manager dos projetos, o feedback é essencial para entendermos o que estamos fazendo bem e, principalmente, onde podemos evoluir.
-
-Preparamos um formulário rápido (leva só alguns minutos) e sua resposta vai contribuir diretamente para a melhoria dos nossos processos e da qualidade das nossas entregas. Se puder nos ajudar, ficaremos muito gratos. Podem responder todos os envolvidos no processo de produtos.
-
-Pesquisa: https://docs.google.com/forms/d/1ch7Mgjy1_jFqMN3ZfDCHjG7WDoVWkgmsyrV3LbNEk6Q/edit
+Pesquisa: https://forms.gle/ERJpKZVPZRRruWTQ8
 
 Desde já, agradeço pelo tempo.
    ´´´
