@@ -118,10 +118,20 @@ Reunião com clientes para formalização e entrega final do desenvolvimento do 
 5. Informar o cliente do prazo de 15 a 20 dias após a entrega para uso e validação do sistema entregue. Seguir os protocolos de [validação e aprovação para entrega final de produto](#entrega-final-de-produto). 
 
 #### **2.1.6 Reuniões de pós-entrega (acompanhamento de produto e follow-up)**
-Reuniões pós-entrega são utilizadas para coletar bugs para correção, alterações solicitadas, sanar dúvidas que possam surgir durante o processo de uso ou definir novas fases do projeto. 
+As Reuniões pós-entrega devem ser utilizadas para engajar o cliente na utilização do produto desenvolvido, coletar bugs para correção, alterações solicitadas, sanar dúvidas que possam surgir durante o processo de uso ou definir novas fases do projeto. 
 
-1. Após a reunião de entrega, deve-se marcar após 15 ou 20 dias, uma nova reunião para coleta de feedbacks, alterações ou bugs encontrados durante a [validação de produto](#entrega-final-de-produto);
-2. Próximas reuniões são marcadas de acordo com a necessidade do cliente, caso necessário, averiguando-se sempre o volume de demandas semanais, pode-se definir uma reunião periódica semanal durante um determinado período, até que o volume das dúvidas e solicitações diminua. 
+##### **2.1.6.1 Reuniões de engajamento e utilização (acompanhamento):**
+Após a reunião de entrega, deve-se coordenar, junto ao cliente, fases de implantação e uso do sistema, propondo semanalmente, ações a serem tomadas para garantir a utilização do sistema:
+1. Fase de Engajamento: Semana na qual o cliente deve ficar responsável pelos cadastros da equipe interna no sistema desenvolvido e a preparação dos módulos para a operação, nessa etapa, pode-se agendar uma reunião de apresentação das funcionalidades para a equipe;
+2. Fase de estruturação de operação: nessa fase, o cliente deve cadastrar os dados necessários para a operação do sistema, como por exemplo cadastros de clientes, produtos e o AM deve garantir o entendimento do funcionamento dos módulos operacionais; 
+3. Fase de utilização do sistema: nesta fase, deve-se orientar os clientes a iniciarem as operações com dados e clientes reais e o AM deve acompanhar a implantação para garantir que o sistema esteja com a utilização correta enquanto coleta dados de engajamento e utilização;
+4. Durante as reuniões ou o processo de engajamento, caso sejam identificadas situações ou contextos que precisem de correção ou alterações, o Account Manger deve anotar as informações necessárias e levar para as próximas reuniões internas da equipe.
+
+##### **2.1.6.2 Reuniões de coletas de alterações ou bugs:**
+Quando solicitado pelo cliente ou ao ver-se necessário, o AM deve marcar reuniões para coletar alterações e regras de negócio sobre novas funcionalidades. 
+
+1. Caso necessário, averiguando-se sempre o volume de demandas semanais, pode-se definir uma reunião periódica semanal durante um determinado período, até que o volume das dúvidas e solicitações diminua;
+2. Todas as solicitações devem ser coletadas e repassadas para o responsável técnico do projeto seguindo o padrão de coletas de demandas pós entrega. 
 
 ### **2.2 Boas práticas para condução em reuniões:**
 Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o processo definido, observe as seguintes boas práticas:
