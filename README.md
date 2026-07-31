@@ -2,21 +2,52 @@
 O Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação, gerenciando o onboarding, o acompanhamento de projetos, a priorização de demandas e a remoção de bloqueios para garantir entregas eficientes e de qualidade.
 
 ## **Principais processos executados**
-Os principais processos gerenciados pelo AM e descritos nessa documentação são:
-1. Onboarding de Clientes;
-2. Organização e Condução de Reuniões;
-3. Validações e Aprovações formais;
-4. Coletas de contas e acessos;
-5. Gestão de Demandas Pós-entrega;
-6. Gerenciamento de documentações;
-7. Avaliações e controle de qualidade.
+A estruturação deste documento aborda os seguintes itens e processos, executados pelo AM:
 
+1. Introdução ao cargo de AM;
+2. Onboarding de Clientes;
+3. Organização e Condução de Reuniões;
+4. Validações e Aprovações formais;
+5. Coletas de contas e acessos;
+6. Gestão de Demandas Pós-entrega;
+7. Gerenciamento de documentações;
+8. Avaliações e controle de qualidade.
 
-### **Regras gerais**
-Para uma melhor execução do trabalho do AM seguem-se, também algumas regras gerais:
-8. Diretrizes de comunicação;
-9. Cronograma operacional;
-10. AM's Quick Start. 
+## **Introdução ao cargo de AM**
+### **Definição do cargo**
+O Account Manager é o responsável por garantir o sucesso do cliente e o alinhamento das expectativas entre os parceiros e a equipe técnica da Laon. Ele atua como o elo principal de comunicação da empresa. Suas principais atribuições incluem:
+1. Gerenciar o onboarding de novos clientes;
+2. Realizar o acompanhamento contínuo de projetos, atualizando os clientes regularmente do seu andamento;
+3. Priorizar demandas da equipe técnica junto aos clientes;
+4. Remover bloqueios para assegurar entregas de qualidade.
+   
+### **Acessos**
+Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor ou responsável pelo seu onboarding, imediatamente os seguintes itens:
+1. Aquisição do número de WhatsApp do AM e configuração de nome e foto de perfil - O WhatsApp é a principal forma de contato entre o AM e os clientes responsáveis pelos projetos, deve ser configurado com uma foto profissional, de preferência em momentos de representação da empresa, com o rosto centralizado e sem outras informações;
+2. Acesso à agenda do Google, de Account Manager e das salas de reuniões - As agendas devem ser utilizadas para o agendamento de reuniões, bem como para a reserva de salas, quando necessárias, para reuniões presenciais;
+3. Acesso à pasta de Produtos do Google Drive - A pasta é o centralizador de todas as documentações escritas, validadas e/ou aprovadas pelo cliente, sendo os arquivos armazenados em pastas para cada projeto;
+4. Acesso ao canal e kanban do squad ao qual o AM foi designado - O canal e o Kanban dos squads são os centralizadores das informações sobre o andamento dos projetos, todas as informações e solicitações à equipe técnica deve ser repassada através desses canais.
+   
+###**Diretrizes de comunicação**
+1. Manter a comunicação apenas no canal dos squads ou dos projetos, evitando conversas diretas com desenvolvedores e product designers, apenas quando estritamente necessário;
+2. Manter as comunicações com os clientes sempre nos grupos destinados aos projetos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
+3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
+4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail).
+
+### **9. Cronograma Operacional**
+As seguintes atividades devem ser realizadas semanalmente pelo AM:
+
+1. Atualizar os status de projetos ativos de acordo com a demanda;
+2. Validar reuniões já marcadas para a semana;
+3. Agendar novas reuniões necessárias;
+4. Priorizar as demandas da equipe técnica;
+5. Acompanhamento de reuniões com clientes;
+6. Participar nas dailies dos squads integrantes;
+7. Acompanhamento de projetos, registrando o andamento para garantir atualizações peródicas para os clientes;
+8. Cobranças de solicitações pendentes ao cliente a à equipe técnica;
+9. Acompanhamento (follow-up) de implantação e utilização de produtos já desenvolvidos mas sob cuidado da Laon;
+10. Verificar emails ao menos 3x ao dia;
+11. Escritas de Documentações.
 
 ### **Cronogramas de projetos**
 Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção até a entrega final e acompanhamento:
@@ -26,6 +57,8 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 4. **Desenvolvimento e codificações do sistema**: etapa onde o projeto estará sendo desenvolvido, nessa etapa, o AM irá coletar toda e qualquer informação/arquivo que seja necessária para o produto;
 5. **Entrega e validação do sistema**: etapa, após o desenvovimento, onde será realizada uma entrega, apresentação e validação de todos os fluxos desenvolvidos. O cliente deverá utilizar o sistema por determinado tempo, para que possa validar a usabilidade e retornar com ajustes ou alterações a serem realizadas;
 6. **Acompanhamento pós-entrega e Follow-up**: após a entrega, alterações e bugs devem ser coletados e repassados para a equipe técnica.
+
+###**Estrutura de Kanban**(Pendente)
 
 ## **1. Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
@@ -504,29 +537,10 @@ Desde já, agradeço pelo tempo.
    ´´´
 3. Reforçar a resposta do formulário, caso não tenha sido respondido. 
 
-## **8. Diretrizes de Comunicação**
-1. Manter a comunicação apenas no canal dos squads, evitando conversas diretas com desenvolvedores e/ou Product Designers, apenas quando estritamente necessário;
-2. Manter as comunicações com os clientes sempre nos grupos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
-3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
-4. Utilizar o email institucional para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail).
 
-## **9. Cronograma Operacional**
-Para monitorar melhor as atividades a serem realizadas pelo AM durante o decorrer da semana, segue-se uma estrutura como base:
-
-1. Atualizar os status de projetos ativos de acordo com a demanda;
-2. Validar reuniões já marcadas para a semana;
-3. Agendar novas reuniões necessárias;
-4. Priorizar demandas da semana;
-5. Acompanhamento de reuniões com clientes;
-6. Participar nas dailies;
-7. Acompanhamento de projetos;
-8. Cobranças e follow-ups;
-9. Verificar emails ao menos 3x ao dia;
-10. Escritas de Documentações.
-
-### **9.1 Atualização de projetos**
+## **9 Atualização de projetos**
 Para uma boa atualização dos projetos dos clientes, segue-se um checklist de informações a serem passadas ou requisitadas:
-#### Checklist:
+### Checklist:
 1. Status atual (em andamento / bloqueado / entregue);
 2. Enviar as fases do projeto;
 3. Se em desenvolvimento informar em qual etapa de desenvolvimento se encontra o projeto;
@@ -534,9 +548,5 @@ Para uma boa atualização dos projetos dos clientes, segue-se um checklist de i
 5. Cobrar informações pendentes por parte do cliente;
 6. Checklist de solicitações pendentes de envio por parte do cliente, como contas, documentos e informações relevantes para o desenvolvimento do projeto.
 
-## **10. AM's Quick Start**
-Para novos AMs, segue um passo a passo de quais informações, acessos e ferramentas são necessárias inicialmente para a boa execução do cargo:
-1. Aquisição do número de whatsapp do AM e configuração de nome e foto de perfil;
-2. Acesso à agenda do Google, de Account Manager;
-3. Acesso à pasta de Produtos do Google Drive;
-4. Acesso ao canal e kanban do squad ao qual o AM foi designado. 
+
+
