@@ -22,19 +22,19 @@ O Account Manager é o responsável por garantir o sucesso do cliente e o alinha
 4. Remover bloqueios para assegurar entregas de qualidade.
    
 ### **Acessos**
-Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor ou responsável pelo seu onboarding, imediatamente os seguintes itens:
+Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor ou responsável pelo seu onboarding, imediatamente, os seguintes itens:
 1. Aquisição do número de WhatsApp do AM e configuração de nome e foto de perfil - O WhatsApp é a principal forma de contato entre o AM e os clientes responsáveis pelos projetos, deve ser configurado com uma foto profissional, de preferência em momentos de representação da empresa, com o rosto centralizado e sem outras informações;
 2. Acesso à agenda do Google, de Account Manager e das salas de reuniões - As agendas devem ser utilizadas para o agendamento de reuniões, bem como para a reserva de salas, quando necessárias, para reuniões presenciais;
 3. Acesso à pasta de Produtos do Google Drive - A pasta é o centralizador de todas as documentações escritas, validadas e/ou aprovadas pelo cliente, sendo os arquivos armazenados em pastas para cada projeto;
 4. Acesso ao canal e kanban do squad ao qual o AM foi designado - O canal e o Kanban dos squads são os centralizadores das informações sobre o andamento dos projetos, todas as informações e solicitações à equipe técnica deve ser repassada através desses canais.
    
-###**Diretrizes de comunicação**
+### **Diretrizes de comunicação**
 1. Manter a comunicação apenas no canal dos squads ou dos projetos, evitando conversas diretas com desenvolvedores e product designers, apenas quando estritamente necessário;
 2. Manter as comunicações com os clientes sempre nos grupos destinados aos projetos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
 3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
 4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail).
 
-### **9. Cronograma Operacional**
+### **Cronograma Operacional**
 As seguintes atividades devem ser realizadas semanalmente pelo AM:
 
 1. Atualizar os status de projetos ativos de acordo com a demanda;
