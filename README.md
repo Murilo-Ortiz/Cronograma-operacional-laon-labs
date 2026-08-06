@@ -32,7 +32,8 @@ Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor
 1. Manter a comunicação apenas no canal dos squads ou dos projetos, evitando conversas diretas com desenvolvedores e product designers, apenas quando estritamente necessário;
 2. Manter as comunicações com os clientes sempre nos grupos destinados aos projetos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
 3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
-4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail).
+4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail);
+5. Caso o cliente não responda à 3 tentativas seguidas de comunicação, deve-se enviar uma mensagem informando que não será mais enviado ou cobrado até que haja um retorno - isso visa evitar que o WhatsApp seja bloqueado por atividade de spam. 
 
 ### **Cronograma Operacional**
 As seguintes atividades devem ser realizadas semanalmente pelo AM:
@@ -339,7 +340,7 @@ O Facebook Login é a integração que permite aos usuários autenticarem-se no 
 5. Solicitar que o cliente e insira o Facebook ID ou nome de usuário do responsável da Laon e vincule-o como administrador do app;
 6. Validar com a equipe técnica se o acesso administrativo foi concedido corretamente assim que o cliente confirmar a conclusão.
 
-Tutorial de criação de APP e login social - Facebook: [Link](https://drive.google.com/file/d/1yKhp_5QRj6eZbSUfS1O3QSxw5MvRWo4A/view?usp=drive_link)[cite: 1].
+Tutorial de criação de APP e login social - Facebook: [Link](https://drive.google.com/file/d/1yKhp_5QRj6eZbSUfS1O3QSxw5MvRWo4A/view?usp=drive_link).
 
 ## **5. Gestão de Demandas pós-entrega**
 Após a entrega final de desenvolvimento do projeto, é comum que apareçam demandas relacionadas a problemas de funcionalidades ou alterações no sistema. Para tratá-las segue-se o processo de gestão de demandas pós-entrega: 
