@@ -33,7 +33,7 @@ Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor
 2. Manter as comunicações com os clientes sempre nos grupos destinados aos projetos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
 3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
 4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail);
-5. Caso o cliente não responda à 3 tentativas seguidas de comunicação, deve-se enviar uma mensagem informando que não será mais enviado ou cobrado até que haja um retorno - isso visa evitar que o WhatsApp seja bloqueado por atividade de spam. 
+5. Caso o cliente não responda à 3 tentativas seguidas de comunicação, deve-se enviar uma mensagem informando que não será mais enviado ou cobrado até que haja um retorno - isso visa evitar que o WhatsApp seja bloqueado por atividade de spam; 
 
 ### **Cronograma Operacional**
 As seguintes atividades devem ser realizadas semanalmente pelo AM:
@@ -252,6 +252,14 @@ Bom dia/Boa tarde, pessoal! Passando para verificar como está o processo de val
 ## **4. Coletas de Informações**
 Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta antecipada de acessos e a criação de contas institucionais. O AM deve validar estes itens após a aprovação dos protótipos.
 
+#### **Solicitações**
+A fim de garantir que o cliente esteja ciente das ações tomadas e solicitações realizadas, bem como seus impactos, toda solicitação deve conter as seguintes informações, quando aplicável:
+1. Solicitação: ação requerida ao cliente, como por exemplo, validar o sistema, validar documentações, gerar contas, etc;
+2. Motivação: razão da ação ser solicitada, com opor exemplo a necessidade de manter as contas na propriedade do responsável do projeto, ou garantir que o sistema estregue esteja funcionando corretamente;
+3. Finalidade: A que espera-se aplicar o ato solicitado, qual a finalidade do mesmo, como por exemplo, integrar a IA na funcionalidade x, buscar em API y, etc;
+4. Prazo: data ou período ao qual o ato solicitado é aguardado, sem impactar o cronograma do projeto;
+5. Consequência: possíveis impactos da ação não ser realizada, como atrasos, não conseguirmos integrar determinada funcionalidade, etc.
+
 #### **4.1 Domínio**
 O domínio é o endereço virtual do projeto na internet e é essencial para hospedar o sistema web, criar APIs e garantir que os usuários consigam acessar a plataforma.
 1. Questionar se o cliente já possui um domínio registrado;
@@ -400,6 +408,11 @@ O processo de execução das alterações passa pelo fluxo:
 
 #### **5.2.1 Coleta das informações**:
 Deve haver um entendimento claro do pedido, em reunião pós-entrega com o cliente deve-se coletar a alteração a ser realizada;
+Precisam estar definidos, quando aplicável, as seguintes informações:
+1. Descrição: Explicação da funcionalidade a ser descrita. Exemplo: Módulo voltado para o armazenamento, rastreabilidade e movimentação de ferramentas e itens reaproveitáveis originados do módulo de Compras ou inseridos manualmente.
+2. Fluxo ou caso de uso: Descrição do fluxo a ser executado, entidades geradas, editadas, utilizadas. Exemplo: Usuário cria um pedido X, gera Y, usa em Z.
+3. Requisitos funcionais: Descrição das funcionalidades, campos, colunas, botões, redirecionamentos e cálculos. Exemplo: Tela de listagem X com datatable com colunas A, B, C, botão Y. Tela de cadastro Z com campos D, E ,F.
+4. Regras de negócio: Descrição de ações, permissões, interações de ações com fluxos, etc. Exemplo: Quando um campo X na tela Y for cadastrado, não deve ser possível editar na tela Z. Quando o fluxo A for aprovado, não pode editar o recurso B na tela C.
 
 #### **5.2.2 Documento de Alterações**
 1. Após definidas as alterações a serem realizadas, deve-se iniciar a construção do documento com a descrição das alterações;
