@@ -255,10 +255,12 @@ Para viabilizar a execução e o deploy dos projetos, é fundamental a coleta an
 #### **Solicitações**
 A fim de garantir que o cliente esteja ciente das ações tomadas e solicitações realizadas, bem como seus impactos, toda solicitação deve conter as seguintes informações, quando aplicável:
 1. Solicitação: ação requerida ao cliente, como por exemplo, validar o sistema, validar documentações, gerar contas, etc;
-2. Motivação: razão da ação ser solicitada, com opor exemplo a necessidade de manter as contas na propriedade do responsável do projeto, ou garantir que o sistema estregue esteja funcionando corretamente;
+2. Motivação: razão da ação ser solicitada, como por exemplo a necessidade de manter as contas na propriedade do responsável do projeto, ou garantir que o sistema entregue esteja funcionando corretamente;
 3. Finalidade: A que espera-se aplicar o ato solicitado, qual a finalidade do mesmo, como por exemplo, integrar a IA na funcionalidade x, buscar em API y, etc;
-4. Prazo: data ou período ao qual o ato solicitado é aguardado, sem impactar o cronograma do projeto;
+4. Prazo: data ou período ao qual o ato solicitado é aguardado, se não cumprido, pode impactar o cronograma do projeto;
 5. Consequência: possíveis impactos da ação não ser realizada, como atrasos, não conseguirmos integrar determinada funcionalidade, etc.
+
+EXEMPLO::
 
 #### **4.1 Domínio**
 O domínio é o endereço virtual do projeto na internet e é essencial para hospedar o sistema web, criar APIs e garantir que os usuários consigam acessar a plataforma.
