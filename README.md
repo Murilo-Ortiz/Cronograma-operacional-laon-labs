@@ -33,7 +33,17 @@ Para iniciar suas atividades adequadamente, todo AM deve solicitar ao supervisor
 2. Manter as comunicações com os clientes sempre nos grupos destinados aos projetos, evitando conversas paralelas e mantendo todos da equipe cientes do andamento e das decisões tomadas;
 3. Utilizar o número profissional de Key Account, com foto pessoal de caráter profissional e nome ```Nome Account Manager Laon```;
 4. Utilizar o email institucional (@laon.com.br) para todas as comunicações do gênero com o cliente (para os convites de reunião podem ser utilizadas contas pessoais @gmail);
-5. Caso o cliente não responda à 3 tentativas seguidas de comunicação, deve-se enviar uma mensagem informando que não será mais enviado ou cobrado até que haja um retorno - isso visa evitar que o WhatsApp seja bloqueado por atividade de spam; 
+5. Caso o cliente não responda à 3 tentativas seguidas de comunicação, deve-se enviar uma mensagem informando que não será mais enviado ou cobrado até que haja um retorno - isso visa evitar que o WhatsApp seja bloqueado por atividade de spam;
+6. Em casos de feriados ou ausências, o AM deve avisar nos grupos ou programar uma mensagem de ausência, informando o período ausente, o motivo (ausência ou feriado) e a quem devem ser direcionadas as mensagens de urgência, caso ocorram;
+
+####**Mensagem de ausência**
+ ```text
+Bom dia/Boa tarde, pessoal! Tudo bem? 
+ 
+No dia, DATA, não teremos expediente devido ao Feriado (nacional/municipal, etc) X. Durante este período, estarei ausente, caso tenham alguma urgência, o @Nome estará responsável por verificá-las até o meu retorno.
+
+Agradecemos a compreensão e fico à disposição.
+ ```
 
 ### **Cronograma Operacional**
 As seguintes atividades devem ser realizadas semanalmente pelo AM:
@@ -59,7 +69,6 @@ Todos os projetos seguem uma mesma sequência de etapas, desde sua concepção a
 5. **Entrega e validação do sistema**: etapa, após o desenvovimento, onde será realizada uma entrega, apresentação e validação de todos os fluxos desenvolvidos. O cliente deverá utilizar o sistema por determinado tempo, para que possa validar a usabilidade e retornar com ajustes ou alterações a serem realizadas;
 6. **Acompanhamento pós-entrega e Follow-up**: após a entrega, alterações e bugs devem ser coletados e repassados para a equipe técnica.
 
-###**Estrutura de Kanban**(Pendente)
 
 ## **1. Onboarding de Cliente**
 O onboarding é o primeiro contato oficial e define o tom da organização e comunicação do projeto. Assim que confirmada a entrada de um novo cliente deve-se seguir algumas etapas:
@@ -177,7 +186,8 @@ Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o
 5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
 6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
 7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
-8. Caso o cliente não compareça na reunião, no horário agendado, enviar mensagem após 5 minutos, cobrando a presença. Caso não tenha retorno, cobrar novamente após 10 e 20 minutos. Após esse horário, informar o cliente que a reunião precisará ser remarcada e trazer os novos horários disponíveis. 
+8. Caso o cliente não compareça na reunião, no horário agendado, enviar mensagem após 5 minutos, cobrando a presença. Caso não tenha retorno, cobrar novamente após 10 e 20 minutos. Após esse horário, informar o cliente que a reunião precisará ser remarcada e trazer os novos horários disponíveis;
+9. Após a reunião, deve-se enviar no grupo uma mensagem contendo o resumo geral da reunião e as pendências de cada parte, Laon e Cliente, respectivamente.  
 
 ### **2.3 Agendamentos de reuniões**
 Para que tudo siga o processo definido, observe os seguintes pontos para o agendamento das reuniões:
@@ -260,7 +270,10 @@ A fim de garantir que o cliente esteja ciente das ações tomadas e solicitaçõ
 4. Prazo: data ou período ao qual o ato solicitado é aguardado, se não cumprido, pode impactar o cronograma do projeto;
 5. Consequência: possíveis impactos da ação não ser realizada, como atrasos, não conseguirmos integrar determinada funcionalidade, etc.
 
-EXEMPLO::
+EXEMPLO: 
+```
+Bom dia/Boa tarde, pessoal! Tudo bem? Precisamos que seja configurada uma conta do Google e da Apple Developer (solicitação). Essas contas precisam ser criadas com os acessos da NOME DO PROJETO (motivação) e são necessárias para que possamos, configurar e publicar os aplicativos nas lojas Google Play e App Store (Finalidade). Precisamos que os acessos sejam gerados até o final deste mês (prazo), como a Apple geralmente demora para aprovar as contas, seria interessante que o processo fosse iniciado o quanto antes. Sem estas contas não conseguiremos continuar o desenvolvimento, publicação e testes finais dos aplicativos, o que poderá trazer atrasos no cronograma do projeto (Consequência). Em anexo, encaminho dois PDFs contendo um passo a passo para a criação destas contas, Fico à disposição caso tenham alguma dúvida.  
+```
 
 #### **4.1 Domínio**
 O domínio é o endereço virtual do projeto na internet e é essencial para hospedar o sistema web, criar APIs e garantir que os usuários consigam acessar a plataforma.
@@ -479,20 +492,8 @@ Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brev
 
 ## **6. Documentações**
 ### **6.1 Atas de Reunião**
-Todas as reuniões devem ser gravadas e documentadas. A ata será feita utilizando o relatório gerado pelo Read AI e formatada utilizando IA para se adequar ao modelo padrão. Após finalizada, ela será enviada via email para registro interno e dos clientes. 
+Todas as reuniões devem ser gravadas e documentadas. A gravação deve ocorrer com o Gemini integrado ao Google Meet, registrando as anotações da IA, Gravação e Transcrição. Após a reunião e o processamento da mesma pelo Google, deve-se destinar o arquivo para a pasta correspondente da Laon. 
 
-#### **6.1.1 ReadAI (ou gravação e análise de reuniões)**
-1. Todas as reuniões devem ser gravadas com o ReadAI
-2. A reunião não deve ser iniciada antes de verificar se o ReadAI está gravando e registrando as informações;
-3. Para encerrar a chamada do google meet, deve-se desconectar o ReadAI antes.
-4. Após a reunião, acessar o relatório da reunião no painel do ReadAI (<https://app.read.ai/analytics>) e usar IA's generativas + anotações para formatar o documento no modelo padrão.
-
-#### **6.1.2 Modelo das atas:**
-
-[Regras - Ata de reunião - Laon ](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
-
-1. As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
-2. Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
 
 #### **6.1.3 Detalhamento Técnico:**
 
