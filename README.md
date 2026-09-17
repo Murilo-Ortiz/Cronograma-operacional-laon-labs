@@ -181,8 +181,8 @@ Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o
 
 1. Entrar 5 minutos antes para testar equipamentos como microfone e câmera;
 2. Manter sempre a câmera ligada durante as reuniões;
-3. Gravar todas as reuniões utilizando o [ReadAI](#readai-ou-gravação-e-análise-de-reuniões);
-4. Anotar pontos importantes discutidos e levantados para conferência posterior em [ata de reunião](#atas-de-reunião);
+3. Gravar todas as reuniões utilizando as ferramentas do Google Gemini e Meet; 
+4. Anotar pontos importantes discutidos e levantados para conferência posterior com a equipe ou clientes responsáveis;
 5. Sugerir melhorias ou ideias sobre o produto desenvolvido;
 6. Auxiliar o time de desenvolvimento de produto a encontrar soluções para as demandas do cliente;
 7. Manter a postura entusiasta e engajar o cliente a participar das reuniões, fazendo questionamentos construtivos para o projeto;
@@ -191,7 +191,7 @@ Para que todas as reuniões ocorram conforme o esperado para cada tipo e sigam o
 
 ### **2.3 Agendamentos de reuniões**
 Para que tudo siga o processo definido, observe os seguintes pontos para o agendamento das reuniões:
-1. Definir objetivo claro para a reunião, baseando-se nos [tipos](#tipos-de-reuniões) descritos;
+1. Definir objetivo claro para a reunião, baseando-se nos tipos descritos;
 2. Coletar os emails dos clientes e da equipe interna que participarão da reunião;
 3. Verificar disponibilidade da agenda com a equipe e o cliente;
 4. Canal de agendamento: Utilizar o Google Calendar para agendar reuniões;
@@ -494,36 +494,6 @@ Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brev
 ### **6.1 Atas de Reunião**
 Todas as reuniões devem ser gravadas e documentadas. A gravação deve ocorrer com o Gemini integrado ao Google Meet, registrando as anotações da IA, Gravação e Transcrição. Após a reunião e o processamento da mesma pelo Google, deve-se destinar o arquivo para a pasta correspondente da Laon. 
 
-
-#### **6.1.3 Detalhamento Técnico:**
-
-Ao registrar decisões ou solicitações, a ata deve detalhar:
-
-1.**Caminho**: Definir a tela ou local exato da alteração.
-2.**Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
-3.**Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
-4.**Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
-5.**Limitações:** O que pode falhar e quais as exceções da regra de negócio;
-6.**Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
-
-#### **6.1.4 Modelo de email:**
-
-1.**Destinatários:** (Responsáveis, tech lead e o email: ```dev@laon.com.br```);
-2.**Título:** Ata de Reunião - Laon  & (Nome do projeto) - DD/MM/AAAA;
-3.**Corpo:** 
-```text
-Prezados, boa tarde!
-Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
-          
-O documento contém uma descrição dos principais pontos discutidos.   
-          
-Fico à disposição para qualquer dúvida ou esclarecimento. 
- 
-Atenciosamente,  
-Murilo Schreiner  
- Account Manager
- ```
- 4.**Anexos:** Anexar a ata em formato PDF;
 
 ### **6.2 Orçamentos**
 Modelo de documento de orçamento:   
