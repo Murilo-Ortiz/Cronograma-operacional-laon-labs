@@ -436,8 +436,8 @@ Precisam estar definidos, quando aplicável, as seguintes informações:
 ``` 
 Bom dia/Boa tarde,pessoal! Segue o documento com a descrição das alterações sobre as quais conversamos. Conseguem validar os pontos e as descrições no documento, por gentileza? Fico no aguardo para prosseguirmos com o orçamento
 ```
-3. Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
-4. Após aprovado pelo cliente, avisar o tech lead para revisão.
+4. Caso existam novos itens repetir o processo de descrição e validação do cliente até aprovação final;
+5. Após aprovado pelo cliente, avisar o tech lead para revisão.
 
 #### **5.2.3 Documento de orçamento**
 1. Após aprovado pelo cliente, deve-se informar o Tech Lead e coletar com o mesmo se haverá a necessidade de orçamento para as alterações solicitadas;
@@ -492,8 +492,44 @@ Bom dia/Boa tarde, pessoal! Subimos a correção/as alterações (descrever brev
 
 ## **6. Documentações**
 ### **6.1 Atas de Reunião**
-Todas as reuniões devem ser gravadas e documentadas. A gravação deve ocorrer com o Gemini integrado ao Google Meet, registrando as anotações da IA, Gravação e Transcrição. Após a reunião e o processamento da mesma pelo Google, deve-se destinar o arquivo para a pasta correspondente da Laon. 
+Todas as reuniões devem ser gravadas e documentadas. A gravação deve ocorrer com o Gemini integrado ao Google Meet, registrando as anotações da IA, Gravação e Transcrição. Após a reunião e o processamento da mesma pelo Google, deve-se destinar o arquivo para a pasta correspondente da Laon. Após finalizada, ela será enviada via email para registro interno e dos clientes. 
 
+#### **6.1.2 Modelo das atas:**
+
+[Regras - Ata de reunião - Laon ](https://docs.google.com/document/d/1ykMCn1TSGIF5OdYx-zNFTzo3t6GRHGIorZR_IDKI5iU/edit?tab=t.0)
+
+1. As atas devem ser enviadas no mesmo dia ou no máximo no próximo dia útil.
+2. Padronização de nome de arquivo: Ata de Reunião - Nome do Projeto - DD/MM/AAAA.
+
+#### **6.1.3 Detalhamento Técnico:**
+
+Ao registrar decisões ou solicitações, a ata deve detalhar:
+
+1.**Caminho**: Definir a tela ou local exato da alteração.
+2.**Especificação de Campos:** Tipo (Entrada/Saída), dado (numérico, texto, data), obrigatoriedade e origem (estático ou dinâmico);
+3.**Lógica e Interação:** Descrever como a alteração afeta outros módulos e qual o fluxo que o usuário deve seguir;
+4.**Dashboards:** Especificar métricas, cálculos detalhados e tipo de gráfico (barras, pizza, etc.);
+5.**Limitações:** O que pode falhar e quais as exceções da regra de negócio;
+6.**Prazos e pendências:** Descrever os itens pendentes e prazos, qual o responsável por executar os pontos em aberto, registrar prazos definidos para novas reuniões ou entregas acordadas com o cliente.
+
+#### **6.1.4 Modelo de email:**
+
+1.**Destinatários:** (Responsáveis, tech lead e o email: ```dev@laon.com.br```);
+2.**Título:** Ata de Reunião - Laon  & (Nome do projeto) - DD/MM/AAAA;
+3.**Corpo:** 
+```text
+Prezados, boa tarde!
+Segue em anexo nossa ata da reunião realizada online/presencialmente no dia DD/MM/AAAA cujo objetivo foi (DESCREVER BREVEMENTE OS PONTOS DISCUTIDOS DURANTE A REUNIÃO SEGUINDO A ESTRUTURA ACIMA).  
+          
+O documento contém uma descrição dos principais pontos discutidos.   
+          
+Fico à disposição para qualquer dúvida ou esclarecimento. 
+ 
+Atenciosamente,  
+Murilo Schreiner  
+ Account Manager
+ ```
+ 4.**Anexos:** Anexar a ata em formato PDF;
 
 ### **6.2 Orçamentos**
 Modelo de documento de orçamento:   
@@ -525,7 +561,7 @@ Desde já, agradeço pelo tempo.
 3. Reforçar a resposta do formulário, caso não tenha sido respondido. 
 
 
-## **9 Atualização de projetos**
+## **8 Atualização de projetos**
 Para uma boa atualização dos projetos dos clientes, segue-se um checklist de informações a serem passadas ou requisitadas:
 ### Checklist:
 1. Status atual (em andamento / bloqueado / entregue);
