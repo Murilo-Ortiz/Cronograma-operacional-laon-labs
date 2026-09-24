@@ -153,11 +153,11 @@ Após a apresentação das entregas, deve-se questionar o cliente sobre:
 2. Existência de domínio e conta AWS para hospedagem do sistema;
 3. Coleta de acessos aos softwares e/ou contas de terceiros que terão integrações com o sistema.
 
-As informações poderão ser coletadas em [Reuniões de acompanhamento de desenvolvimento](#41-reunioes-de-acompanhamento-de-desenvolvimento) de acordo com a necessidade ou os prazos definidos.
+As informações poderão ser coletadas em reuniões de acompanhamento de desenvolvimento de acordo com a necessidade ou os prazos definidos.
 
-Veja a seção sobre coleta de [contas e acessos](#4-coletas-de-informacoes).
+Veja a seção sobre coleta de contas e acessos.
 
-Após a reunião, deve-se seguir o protocolo de coleta de [aprovação formal de protótipos](#31-entrega-final-dos-prototipos).
+Após a reunião, deve-se seguir o protocolo de coleta de aprovação formal de protótipos.
 
 #### 2.1.4 Reuniões de acompanhamento de desenvolvimento
 
@@ -167,7 +167,7 @@ Reuniões com clientes para atualização do desenvolvimento do projeto e coleta
 2. Apresentar as próximas etapas e o planejamento;
 3. Coletar itens pendentes de envio (acessos, informações, identidade visual, imagens, arquivos, etc).
 
-Veja a seção sobre coleta de [contas e acessos](#4-coletas-de-informacoes).
+Veja a seção sobre coleta de contas e acessos.
 
 #### 2.1.5 Reunião de entrega final de produto
 
@@ -258,7 +258,7 @@ Após as reuniões de entrega dos protótipos e sistemas desenvolvidos, deve-se 
 
 ### 3.1 Entrega final dos protótipos
 
-Após a [apresentação final dos protótipos](#3-reuniao-final-de-projeto) e regras de negócio, bem como a correção de quaisquer pontos levantados nas últimas reuniões, deve-se seguir o protocolo de aprovação.
+Após a apresentação final dos protótipos e regras de negócio, bem como a correção de quaisquer pontos levantados nas últimas reuniões, deve-se seguir o protocolo de aprovação.
 
 #### 3.1.1 Formalização da aprovação por e-mail
 
